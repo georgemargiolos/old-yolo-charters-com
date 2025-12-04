@@ -1,0 +1,2121 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+
+
+<head>
+
+
+<base href="//yolo-charters.com/" />
+
+	<link rel="canonical" href="https://yolo-charters.com/en/destinations/ionian-sea.html" />
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" href="https://www.yolo-charters.com" hreflang="en" />
+<!-- robot meta tags -->
+
+
+<meta name="description" content="The Ionian Sea is a sailor’s paradise, known for its turquoise waters, gentle winds, and breathtaking landscapes" />
+
+<title>
+	
+	
+	
+		
+		
+			
+			Ionian Sea
+		
+	 &vert; Yolo Charters
+</title>
+
+<meta property="og:type" content="website" />
+
+	<meta property="og:url" content="//yolo-charters.com/en/destinations/ionian-sea.html" />
+
+
+<meta property="og:title" content="Ionian Sea">
+<meta property="og:image" content="https://www.yolo-charters.com/images/no_image.jpg" />
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="200">
+<meta property="og:description" content="The Ionian Sea is a sailor’s paradise, known for its turquoise waters, gentle winds, and breathtaking landscapes" />
+<meta property="twitter:creator" content="Yolo Charters">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Ionian Sea">
+<meta property="twitter:description" content="The Ionian Sea is a sailor’s paradise, known for its turquoise waters, gentle winds, and breathtaking landscapes">
+<link rel="icon" type="image/png" href="images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android-chrome-192x192.png">
+
+<link rel="stylesheet" href="src/css/jquery-ui.min.css">
+<link rel="stylesheet" href="src/css/photo-swipe.min.css">
+<link rel="stylesheet" href="src/css/magnific-popup.min.css">
+<link rel="stylesheet" href="src/css/select2.min.css">
+
+<link rel="stylesheet" href="dist/css/style.min.css">
+
+
+<script src="src/js/jquery.min.js"></script>
+
+<script src="src/js/litepicker.js"></script>
+<script src="src/js/mobilefriendly.js"></script>
+</head>
+<body class="ionian-sea">
+	
+	
+	<header class="header header-dark">
+		<div class="custom-container">
+			<div class="header-wrapper">
+				<a class="nav-logo" href="/">
+					<img src="images/site-logo.svg" alt="site-logo">
+				</a>
+				<nav class="nav header-wrapper-navigation">
+					<ul class="main-nav">
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu1" class="nav-link" href="en/our-yachts.html">Our Yachts&nbsp;</a>
+								<span class="first-menu-span"></span>
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+						
+							
+						
+							<li >
+							
+							
+							
+							
+							
+							
+								<a id="menu2" class="nav-link" href="en/destinations/ionian-sea.html">Destinations&nbsp;</a>
+								
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu3" class="nav-link" href="en/about-us.html">About us&nbsp;</a>
+								
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu4" class="nav-link" href="en/blog.html">Blog&nbsp;</a>
+								
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu5" class="nav-link" href="en/contact.html">Contact us&nbsp;</a>
+								<span class="first-menu-span"></span>
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+
+						<div class="lang d-none">
+							<div class="lang-btn d-flex">
+								EN
+								
+							</div>
+							
+							<ul class="lang-list">
+								<li><a class="lang-item" href="https://www.yolo-charters.com/">English</a></li>
+								
+							</ul>
+						</div>
+					</ul>
+
+					<div class="header-wrapper-navigation__wrap">
+						
+
+						<div id="hamburger-mobile" class="hamburger">
+							<div class="hamburger_icons">
+								<div class="icon-1" id="a"></div>
+								<div class="icon-2" id="b"></div>
+								<div class="icon-3" id="c"></div>
+							</div>
+						</div>
+					</div>
+				</nav>				
+			</div>
+		</div>
+	</header>
+
+	
+
+	
+		
+		
+		
+		<section class="hero_inner-pages">
+			<div class="custom-container">
+				<div class="col-12">
+					<ul class="breadcrumb">
+						
+							
+							
+							
+								<li><a
+									href="en/home.html"
+								>Yolo Charters</a></li>
+							
+						
+							
+							
+								<li><a
+									href="en/en/destinations/ionian-sea.html"
+								>Destinations</a></li>
+							
+							
+						
+						<li>
+								Ionian Sea
+							 
+							</li>
+					</ul>
+				</div>
+				<div class="hero_content relative row">
+
+					
+					<div class="col-12 d-flex justify-content-center text-center">
+						<h1>
+							
+							Ionian Sea
+						</h1>
+					</div>			
+				</div>
+			</div>
+
+		
+		</section>
+		
+		
+	
+
+	
+
+
+
+
+
+<section class="relative bg-circle-gradient circle-right">
+
+    
+      <div class="custom-container">
+        <div class="row">
+          <div class="col-12">
+            <p>
+The Ionian Sea, located off the western coast of Greece, is a sailing paradise known for its calm, protected waters, steady winds, and stunning natural beauty. With YOLO Charters, you can experience this exceptional destination like never before—onboard one of our carefully maintained yachts, guided by our local expertise and passion for the sea.
+    <p data-start="506" data-end="851">
+Unlike the Aegean, the Ionian offers more predictable weather and lighter winds, making it an ideal choice for both seasoned sailors and first-time adventurers. The region is famous for its lush green islands, crystal-clear turquoise waters, traditional fishing villages, and picturesque anchorages that feel like they've been untouched by time.
+    </p>
+
+    <p data-start="853" data-end="1164">
+Sail among iconic islands such as Lefkada, Kefalonia, Ithaca, Paxos, and Zakynthos, each offering unique charm and culture. Whether you're looking to relax on secluded beaches, explore sea caves and ancient ruins, or dine at waterfront tavernas serving the freshest Mediterranean cuisine, the Ionian has it all.
+    </p>
+
+    <p data-start="1166" data-end="1393">
+Our base in Preveza provides quick and easy access to the heart of the Ionian. From there, you'll have the freedom to chart your own course, whether it's a leisurely island-hopping holiday or an action-packed sailing adventure.
+    </p>
+
+    <p data-start="1395" data-end="1683">
+YOLO Charters makes it simple to enjoy your sailing experience: modern yachts, full support, optional skippers, and personalized itineraries to match your style. Choose the Ionian Sea for your next sailing journey and let the warm winds and calm waters guide you to unforgettable moments.
+    </p>
+
+    <p data-start="1395" data-end="1683">
+&#160;
+    </p>
+
+    <p data-start="0" data-end="53">
+<strong data-start="0" data-end="53">The Ionian Sea: Sailing Adventures Around Preveza</strong>
+    </p>
+
+    <p data-start="55" data-end="424">
+The Ionian Sea, with its calm waters, steady winds, and lush green islands, is a paradise for sailors—and Preveza is one of the best starting points for exploring its hidden treasures. Nestled at the mouth of the Ambracian Gulf, Preveza offers quick access to both tranquil inland waters and the open sea, making it ideal for short trips or extended sailing adventures.
+    </p>
+
+    <h3 data-start="426" data-end="456">
+<strong data-start="430" data-end="454">1. Paxos &amp; Antipaxos</strong></h3>
+
+    <p data-start="457" data-end="786">
+Just 35 nautical miles northwest of Preveza, Paxos is a sailor’s dream. Its eastern coast offers calm anchorages like Gaios and Lakka, while the west stuns with dramatic cliffs and sea caves. A short hop south, Antipaxos rewards visitors with Caribbean-like turquoise waters and sandy beaches—perfect for swimming and snorkeling.
+    </p>
+
+    <h3 data-start="788" data-end="808">
+<strong data-start="792" data-end="806">2. Lefkada</strong></h3>
+
+    <p data-start="809" data-end="1159">
+Directly south of Preveza, Lefkada is connected to the mainland by a swing bridge, allowing easy access via the Lefkas Canal. The island is a sailing hub with numerous bays and marinas, including the lively town of Nidri and the quiet anchorage of Sivota. Its western coast features stunning beaches like Egremni and Porto Katsiki, best seen by boat.
+    </p>
+
+    <h3 data-start="1161" data-end="1182">
+<strong data-start="1165" data-end="1180">3. Meganisi</strong></h3>
+
+    <p data-start="1183" data-end="1442">
+East of Lefkada lies Meganisi, a small island with deeply indented coastlines and dozens of protected anchorages. Port Atheni and Vathi are favorite stops, while the island’s many sea caves and untouched nature offer peaceful exploration away from the crowds.
+    </p>
+
+    <h3 data-start="1444" data-end="1473">
+<strong data-start="1448" data-end="1471">4. Kalamos &amp; Kastos</strong></h3>
+
+    <p data-start="1474" data-end="1783">
+Continuing southeast, the islands of Kalamos and Kastos are less developed and feel like stepping back in time. Kalamos offers a safe harbor and beautiful walking trails, while Kastos charms with its single village, olive groves, and quiet coves. These are ideal overnight stops for those seeking tranquility.
+    </p>
+
+    <h3 data-start="1785" data-end="1804">
+<strong data-start="1789" data-end="1802">5. Ithaca</strong></h3>
+
+    <p data-start="1805" data-end="2096">
+Famous as the mythical home of Odysseus, Ithaca is rich in both history and natural beauty. Vathi, the island’s main port, is a lovely anchorage, and the coastline is dotted with secluded bays like Kioni and Polis. The island is mountainous and lush, perfect for hikes and exploring on land.
+    </p>
+
+    <h3 data-start="2098" data-end="2120">
+<strong data-start="2102" data-end="2118">6. Kefalonia</strong></h3>
+
+    <p data-start="2121" data-end="2398">
+South of Ithaca lies Kefalonia, the largest Ionian island. It features dramatic cliffs, hidden beaches, and colorful villages like Fiskardo—often called the most picturesque port in the region. The caves of Melissani and Drogarati, along with Myrtos Beach, are top attractions.
+    </p>
+
+    <h3 data-start="2400" data-end="2431">
+<strong data-start="2404" data-end="2429">7. The Ambracian Gulf</strong></h3>
+
+    <p data-start="2432" data-end="2739">
+For a different kind of sailing experience, explore inland—into the Ambracian Gulf. This protected body of water is dotted with small fishing villages, calm anchorages, and wildlife, including dolphins and rare bird species. Vonitsa is a charming town with a medieval castle, ideal for a quiet night’s stay.
+    </p>
+
+    
+<hr data-start="2741" data-end="2744" />
+    <p data-start="2746" data-end="3043" data-is-last-node="" data-is-only-node="">
+Whether you're looking for remote anchorages, lively harbors, or mythical islands, the sailing grounds around Preveza offer endless variety. With short distances, welcoming ports, and steady summer breezes, the Ionian invites you to explore at your own pace—anchoring in a new paradise each night.
+
+    </p>
+
+  </p>
+          </div>
+        </div>
+      </div>
+    
+
+    <div class="custom-container">
+        <div class="row">
+            
+            
+            
+            
+            
+                <div class="destination-image">
+                  <figure>
+                      <img src="documents/ionian-sea.jpg" alt="Ionian Sea" title="Ionian Sea" loading="lazy"/>
+                  </figure>
+                </div>
+            
+            
+                <div class="destination-image-caption">
+                  <p>Adventure awaits!</p>
+                </div>
+            
+        </div>
+
+        
+
+
+    </div>
+</section>
+
+
+    
+    
+      
+      
+      
+      
+        
+          
+        
+        
+        
+      
+        
+        
+          
+        
+        
+      
+      
+
+
+
+
+
+
+
+
+
+
+<section class="container text-center whitespace-md contact-banner-included">
+	<div class="row">
+		<div class="col-12">
+			
+				<h2 class="contact-banner-included-title">
+					Contact us
+				</h2>
+			
+			
+				<p class="contact-banner-included-description">
+					
+  
+				</p>
+			
+			
+				<a href="contact.html" class="btn btn-primary">Contact</a>
+			
+		</div>
+	</div>
+</section>
+    
+  
+
+  
+
+
+
+
+
+
+
+
+<div class="custom-container">
+	<div id="yachtlist" class="row pt-5">
+		<div class="col-12 py-3 d-flex">
+			<div class="back" onclick="history.back()">
+                     <svg width="29" height="16" viewBox="0 0 29 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM29 7L1 7V9L29 9V7Z" fill="#0076FA"/>
+				</svg>
+			    <div>back</div>
+			</div>
+		</div>
+    	<aside id="aside-search" class="col-xl-3">
+            <script>
+//countries
+c=new Array();
+c["GR"]="Greece ()"; 
+//regions
+r={"7":"Ionian (3)",}
+//services
+s={}
+
+//bases
+b=new Array();
+b["1935994390000100000"]="Preveza Main Port (3)";
+
+//models
+m=new Array();
+m["7208130610000107850"]="Bavaria Cruiser 46";
+m["7136017890000107850"]="Lagoon 440";
+m["6362109180000107850"]="Sun Odyssey 469";
+
+//kinds
+k=new Array();
+	k["7208130610000107850"]="Sail boat";
+	k["7136017890000107850"]="Catamaran";
+	k["6362109180000107850"]="Sail boat";
+
+//data
+var d;
+d=new Array();
+d[0]={rti:"6362109180000107850", si:"7850", cc:"GR", bi:"1935994390000100000", ri:new Array(-2,7)};
+d[1]={rti:"7208130610000107850", si:"7850", cc:"GR", bi:"1935994390000100000", ri:new Array(-2,7)};
+d[2]={rti:"7136017890000107850", si:"7850", cc:"GR", bi:"1935994390000100000", ri:new Array(-2,7)};
+
+var filter_variables;
+filter_variables = [
+	["filtered_service_id","si"],
+	["filtered_country_code","cc"],
+	["filtered_base_id","bi"],
+	["filtered_region_id","ri"]];
+delete filter_variables[1];
+
+
+var filtered_service_id = "";
+var filtered_country_code = "";
+var filtered_base_id = "";
+var filtered_region_id = "";
+
+function clearOptionsFromSelect(elementId){
+	selectElement = document.getElementById(elementId);
+	if(selectElement){
+		j=selectElement.options.length;
+		for (i=0;i<j;i++){
+			selectElement.options[selectElement.options.length-1]=null;
+		}
+	}
+}
+
+function fillSelectWithOptions(arr, elementId,selectKey){
+	selectElement = document.getElementById(elementId);
+	if(selectElement){
+		selectElement.options[selectElement.options.length] = new Option("any","");
+		for(i=0;i<arr.length;i++){
+			var op = document.createElement('option');
+			op.value = arr[i]["arrKey"];
+			op.text = arr[i]["arrVal"];
+			selectElement.options[selectElement.options.length] = op;
+			if (op.value==selectKey){
+				selectElement.selectedIndex = selectElement.options.length-1;
+            }
+		}
+	}
+}
+
+function mysortfn(a,b) {
+  if (a["arrVal"]<b["arrVal"]) return -1;
+  if (a["arrVal"]>b["arrVal"]) return 1;
+  return 0;
+}
+
+Array.prototype.contains = function(obj) {
+  var i = this.length;
+  while (i--) {
+    if (this[i] === obj) {
+      return true;
+    }
+  }
+  return false;
+}
+
+Array.prototype.containsArray = function(obj) {
+	var i = this.length;
+	var countEqual = 0;
+	while (--i >= 0) {
+		var j = obj.length;
+		while (--j >= 0){		
+			if (this[i] === obj[j]) {
+				countEqual++;
+			}
+		}
+	}
+	if(countEqual == obj.length){ return true; }
+	else{ return false; }
+}
+
+
+function filterData(filters, elementId, elementArray, dataArrayKey){
+	if(document.getElementById(elementId)==null){
+		return;
+	}
+	var prevSelectedKey = document.getElementById(elementId).value;
+	clearOptionsFromSelect(elementId);
+	var arr = new Array()
+	//used to avoid duplicates in our combos
+	var helperIds = new Array();
+
+	for(var i=0; i<d.length; ++i){
+		//rewriting everything into array
+		if(d[i][dataArrayKey] instanceof Array){
+			helperId= d[i][dataArrayKey];
+		}
+		else{
+			helperId = new Array();
+			helperId[helperId.length] = d[i][dataArrayKey];
+		}
+		
+		var tmpResult = {}
+		//should comply to all filters
+		for(var j=0; j<filters.length; ++j){
+			var result = (filters[j].key!="ri" && filters[j].value == d[i][filters[j].key]) || (filters[j].key=="ri" &&  d[i][filters[j].key].indexOf(parseInt(filters[j].value))!=-1);
+			tmpResult[filters[j].key] = tmpResult[filters[j].key] || result;
+		}
+		
+		var shouldInclude = true;
+		for(var k in tmpResult){
+			if (tmpResult.hasOwnProperty(k)){
+				shouldInclude = shouldInclude && tmpResult[k];
+			}
+		}
+		
+		if(shouldInclude){
+			for(j=0; j<helperId.length;++j){
+				if(!isNaN(helperId[j])){
+					if(helperId[j]<0){
+						continue;
+					}
+				}
+				if(!helperIds.contains(helperId[j])){
+					arr[arr.length]={arrKey:helperId[j],arrVal:elementArray[helperId[j]]+""} ;
+					helperIds[helperIds.length] = helperId[j];
+				}
+			}
+		}
+	}
+	arr.sort(mysortfn);
+	fillSelectWithOptions(arr, elementId, prevSelectedKey);
+}
+
+function refillFromRegions(){
+	var filters = getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc");
+	filterRegionDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_region", filterRegionActiveFilters, "ri");
+	filterServiceDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+
+function refillFromService(){
+	
+}
+
+var flexibilityBeforeSwitch = "";
+function countryChanged(){
+	//switch flexibility to "in week" if Netherland is selected
+	if(document.getElementById("filter_country").value=="NL"){
+		if(document.getElementById("filter_flexibility").value=="on_day"){
+			if(flexibilityBeforeSwitch==""){
+				flexibilityBeforeSwitch = document.getElementById("filter_flexibility").value;
+			}
+			document.getElementById("filter_flexibility").value="in_week";
+		}
+	} else{
+		if(flexibilityBeforeSwitch!=""){
+			document.getElementById("filter_flexibility").value=flexibilityBeforeSwitch;
+			flexibilityBeforeSwitch = "";
+		}
+	}
+	refillFromRegions();
+}
+
+function regionChanged(){
+	var filters = getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri");
+	filterServiceDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+
+function serviceChanged(){
+	var filters = getActiveFilters(getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri"), "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+
+function baseChanged(){
+	var filters = getActiveFilters(getActiveFilters(getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri"), "filter_service", filterServiceActiveFilters, "si"), "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+	
+	refreshLocationDistanceFilter();
+	
+}
+
+function refreshLocationDistanceFilter(){
+	if (window.jQuery) {  
+		if(document.getElementById("locationDistanceDiv")!=null){
+			if(document.getElementById("filter_base")!=null){
+					tmpFilterBase=document.getElementById("filter_base").value;
+					if (tmpFilterBase==null||tmpFilterBase=="-1"||tmpFilterBase==""||$('#filterBaseHolder [id^="filterBase"]').size()>0){
+						document.getElementById("locationDistanceDiv").style.visibility="hidden";
+					} else {
+						document.getElementById("locationDistanceDiv").style.visibility="visible";
+					}
+			} else {
+			   	document.getElementById("locationDistanceDiv").style.visibility="hidden";
+			}
+		}
+	}
+}
+
+function getActiveFilters(currentFilters, elementId, activeFilterArray, filterKey){
+	var tmpFilters = new Array();
+	if(document.getElementById(elementId)!=null && document.getElementById(elementId).value!=""){
+		tmpFilters[tmpFilters.length] = {key:filterKey, value:document.getElementById(elementId).value};
+	}
+	for(var k in activeFilterArray){
+		if (activeFilterArray.hasOwnProperty(k)) {
+			if(document.getElementById(k).value!=""){
+				tmpFilters[tmpFilters.length] = {key:filterKey, value:document.getElementById(k).value};
+			}
+		}
+	}
+	
+	//TODO when service is selected we should take into account previous filters also...
+	
+	if(tmpFilters.length>0){
+		if(filterKey=="si" || filterKey=="ri"){
+			for(var i=0; i<currentFilters.length; ++i){
+				tmpFilters[tmpFilters.length] = currentFilters[i];
+			}
+		}
+		return tmpFilters;
+	} else{
+		return currentFilters;
+	}
+}
+
+
+
+var filterCountryActiveFilters = new Array();
+var filterRegionActiveFilters = new Array();
+var filterServiceActiveFilters = new Array();
+var filterBaseActiveFilters = new Array();
+
+function filterCountryFillCombo(combo){
+	combo.onchange = function() {countryChanged();};
+						var option = document.createElement('option');
+			option.setAttribute("value", "GR");
+			option.appendChild(document.createTextNode('Greece  (3)'));
+			combo.appendChild(option);
+				
+	refillFromRegions();
+}
+
+function filterRegionFillCombo(combo){
+	combo.onchange = function() {regionChanged();};
+	var filters = getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc");
+	filterData(filters, combo.id, r, "ri");
+	filters = getActiveFilters(filters, "filter_region", filterRegionActiveFilters, "ri");
+	filterServiceDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+
+function filterServiceFillCombo(combo){
+	combo.onchange = function() {serviceChanged();};
+	var filters = getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri");
+	filterData(filters, combo.id, s, "si");
+	filters = getActiveFilters(filters, "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+
+function filterBaseFillCombo(combo){
+	combo.onchange = function() {baseChanged();};
+	var filters = getActiveFilters(getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri"), "filter_service", filterServiceActiveFilters, "si");
+	filterData(filters, combo.id, b, "bi");
+	filterModelDataFilter(filters);
+}
+
+function filterCountryDelete(removeDiv, id, nameCounter){
+	removeDiv.parentNode.removeChild(removeDiv);
+	delete window[id+"ActiveFilters"][nameCounter];
+	
+	refillFromRegions();
+}
+function filterRegionDelete(removeDiv, id, nameCounter){
+	removeDiv.parentNode.removeChild(removeDiv);
+	delete window[id+"ActiveFilters"][nameCounter];
+	
+	var filters = getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri");
+	filterServiceDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+function filterServiceDelete(removeDiv, id, nameCounter){
+	removeDiv.parentNode.removeChild(removeDiv);
+	delete window[id+"ActiveFilters"][nameCounter];
+	
+	var filters = getActiveFilters(getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri"), "filter_service", filterServiceActiveFilters, "si");
+	filterBaseDataFilter(filters);
+	filters = getActiveFilters(filters, "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+function filterBaseDelete(removeDiv, id, nameCounter){
+	removeDiv.parentNode.removeChild(removeDiv);
+	delete window[id+"ActiveFilters"][nameCounter];
+	
+	var filters = getActiveFilters(getActiveFilters(getActiveFilters(getActiveFilters(new Array(), "filter_country", filterCountryActiveFilters, "cc"), "filter_region", filterRegionActiveFilters, "ri"), "filter_service", filterServiceActiveFilters, "si"), "filter_base", filterBaseActiveFilters, "bi");
+	filterModelDataFilter(filters);
+}
+
+
+
+function filterRegionDataFilter(filters){
+	/** fills all region filters **/
+	
+	filterData(filters, "filter_region", r, "ri");
+	for(var key in filterRegionActiveFilters){
+		if (filterRegionActiveFilters.hasOwnProperty(key)) {
+			filterData(filters, key, r, "ri");
+		}
+	}
+}
+function filterServiceDataFilter(filters){
+	filterData(filters, "filter_service", s, "si");
+	for(var key in filterServiceActiveFilters){
+		if (filterServiceActiveFilters.hasOwnProperty(key)) {
+			filterData(filters, key, s, "si");
+		}
+	}
+}
+function filterBaseDataFilter(filters){
+	filterData(filters, "filter_base", b, "bi");
+	for(var key in filterBaseActiveFilters){
+		if (filterBaseActiveFilters.hasOwnProperty(key)) {
+			filterData(filters, key, b, "bi");
+		}
+	}
+}
+function filterModelDataFilter(filters){
+	filterData(filters, "filter_model", m, "rti");
+}
+
+
+var filterCountryElementCount = {count:0};
+var filterRegionElementCount = {count:0};
+var filterServiceElementCount = {count:0};
+var filterBaseElementCount = {count:0};
+
+function addFilterElement(id){
+	var counterVar = window[id+"ElementCount"];
+	var nameCounter= id+counterVar.count;
+	var targetDiv = document.getElementById(id+"Holder");
+	var newDiv = document.createElement("div");
+	targetDiv.appendChild(newDiv);
+	
+	var newCombo = document.createElement("select");
+	newCombo.setAttribute("id", nameCounter);
+	newCombo.setAttribute("name", nameCounter);
+	
+	//item "any"
+	var option = document.createElement('option');
+	option.setAttribute("value", "");
+	option.appendChild(document.createTextNode("any"));
+	newCombo.appendChild(option);
+	newDiv.appendChild(newCombo);
+	
+	//registering filter in dictionary
+	var filtersObj = window[id+"ActiveFilters"];
+	filtersObj[nameCounter] = nameCounter;
+	
+	//filling combobox
+	window[id+"FillCombo"](newCombo);
+	
+	var imageRemoveA = document.createElement("a");
+	imageRemoveA.onclick = function() { window[id+"Delete"](newDiv, id, nameCounter);refreshLocationDistanceFilter(); };
+	
+	var imageRemoveImg = document.createElement("img");
+	imageRemoveImg.setAttribute("src", "//yolo-charters.com/include/images/icons/delete.png");
+	imageRemoveImg.setAttribute("style", "vertical-align:middle;");
+	imageRemoveA.appendChild(imageRemoveImg);
+	
+	counterVar.count+=1;
+	
+	newDiv.appendChild(document.createTextNode(" "));
+	newDiv.appendChild(imageRemoveA);
+	
+	return newCombo;
+}
+
+function collectExtraFilters(){
+	collectExtraSpecificFilters(filterCountryActiveFilters, document.forms["box"].filteredcountries, "filteredcountries");
+	collectExtraSpecificFilters(filterRegionActiveFilters, document.forms["box"].filteredregions, "filteredregions");
+	collectExtraSpecificFilters(filterServiceActiveFilters, document.forms["box"].filteredservices, "filteredservices");
+	collectExtraSpecificFilters(filterBaseActiveFilters, document.forms["box"].filteredbases, "filteredbases");
+}
+
+function collectExtraSpecificFilters(filtersMap, element, inputName){
+	var separator = "";
+	var values = null;
+	for(var key in filtersMap){
+		if (filtersMap.hasOwnProperty(key)) {
+			if(values==null){
+				values="";
+			}
+			values += separator + document.getElementById(key).value;
+			separator=",";
+		}
+	}
+	if(values!=null){
+		if(element){
+			element.setAttribute("value", values);
+		} else{
+			var input = document.createElement("input");
+			input.setAttribute("type", "hidden");
+			input.setAttribute("name", inputName);
+			input.setAttribute("value", values);
+			document.forms["box"].appendChild(input);
+		}
+	} else{
+		//there are no extra filters selected, remove corresponding hidden field if it exists
+		if(element){
+			document.forms["box"].removeChild(element);
+		}
+	}
+}
+
+</script>
+
+
+<div class="main-search-form aside-search">
+
+	<div id="aside-search-close" class="fs-18 fw-bold d-flex d-xl-none mb-2">
+		&#x2715; Close					</div>
+	
+	<form name="box" id="formSearchForm" action="en/charter/search-results.html" method="get" onsubmit="collectExtraFilters();submitForm();">
+		<input type="hidden" name="view" value="SearchResult">
+		<input type="hidden" name="filter_date" value="">
+			<input type="hidden" name="filter_month" value="">
+			<input type="hidden" name="filter_year" value="">
+			<input type="hidden" name="filter_duration" value="">
+			<!--<input type="hidden" name="pushToTop" value="service_id=3019">-->
+			<input name="id" value="charter_search-results" type="hidden">
+								<input type="hidden" name="setLang" value="en">
+														<div class="main-search-wrapper alert-border">
+			<div>
+				<div class="row">
+					<div class="col-12">
+						<div class="search-fields">
+																								</div>
+						<div class="form-element date mb-5">
+								<div class="form-element-label">
+									<input type="text" name="daterange" id="all-days" placeholder="Dates" class="datepicker" readonly style="border:none;">
+									<svg width="14" height="16" viewBox="0 0 14 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+										<path id="Vector" d="M10.5 0C10.225 0 10 0.225 10 0.5V2H4V0.5C4 0.225 3.775 0 3.5 0C3.225 0 3 0.225 3 0.5V2H2C0.896875 2 0 2.89687 0 4V5V6V14C0 15.1031 0.896875 16 2 16H12C13.1031 16 14 15.1031 14 14V6V5V4C14 2.89687 13.1031 2 12 2H11V0.5C11 0.225 10.775 0 10.5 0ZM1 6H13V14C13 14.5531 12.5531 15 12 15H2C1.44687 15 1 14.5531 1 14V6ZM2 3H12C12.5531 3 13 3.44688 13 4V5H1V4C1 3.44688 1.44687 3 2 3Z" fill="#142942"/>
+									</svg>
+								</div>
+							</div>
+						<div style="height:0; overflow:hidden;">
+							<div class="form-element select-element">
+								<select class="custom_select" name="filter_service_type" id="filter_service_type">
+									<option value="all">Service</option>
+																			<option value="Bareboat"  
+											 >
+											Bareboat
+										</option>
+																			<option value="Crewed"  
+											 >
+											Crewed
+										</option>
+																			<option value="Cabin"  
+											 >
+											Cabin
+										</option>
+																			<option value="Flotilla"  
+											 >
+											Flotilla
+										</option>
+																			<option value="Powered"  
+											 >
+											Powered
+										</option>
+																			<option value="Berth"  
+											 >
+											Berth
+										</option>
+																			<option value="Regatta"  
+											 >
+											Regatta
+										</option>
+																			<option value="Canal"  
+											 >
+											Canal charter
+										</option>
+																			<option value="AllInclusive"  
+											 >
+											All inclusive
+										</option>
+																			<option value="Cruise"  
+											 >
+											Cruise
+										</option>
+																	</select>
+							</div>
+							<div class="form-element select-element">
+								<select class="custom_select" name="filter_kind" id="filter_kind">
+									<option value="">Boat type</option>
+																																							<option value="Sail boat">Sailing yacht</option>
+																																																	<option value="Catamaran">Catamaran</option>
+																											</select>
+							</div>
+							<div class="range-slider-wrap">
+								<label class="main-search-label mb-3">Length</label>
+
+								<div class="range-slider">
+									
+									<input type="hidden" name="filter_length" id="filter_length" value="$request.getParameter('filter_length')" />
+									
+									<div id="slider_length"></div>
+									<span class="search-slider" id="length_label" >any</span>
+								</div>
+							</div>
+							<div class="range-slider-wrap">
+								<label class="main-search-label mb-3">Cabins</label>
+								<div class="range-slider">
+									<input type="hidden" name="filter_cabins" id="filter_cabins" value="$request.getParameter('filter_cabins')" />
+									<div id="slider_cabins"></div>
+									<span class="search-slider" id="cabins_label" >Cabins</span>
+								</div>
+							</div>
+							<div class="range-slider-wrap">
+								<div class="main-search-label mb-3">Price per week</div>
+								<div class="range-slider">
+									<input type="hidden" name="filter_price" id="filter_price" value="$request.getParameter('filter_price')" />
+									<div id="slider_price_range"></div>
+									<span class="search-slider" id="price_range_label" >any</span>
+								</div>
+							</div>
+							<div class="range-slider-wrap">
+								<div class="main-search-label">Built year</div>
+								<div class="range-slider">
+									<input type="hidden" name="filter_yachtage" id="filter_yachtage" value="$request.getParameter('filter_yachtage')" />
+									<div id="slider_yachtage"></div>
+									<span class="search-slider" id="yachtage_label" >any</span>
+								</div>
+							</div>
+							<div class="form-element select-element">
+								<select class="custom_select" name="filter_offer_type" id="filter_offer_type" >
+									<!--<option value="0"  >all</option>-->
+									<option value=""  selected>Standard offer</option>
+									<option value="1" >short offer</option>
+									<option value="2" >One way offer</option>
+								</select>	
+							</div>
+							<div class="accordion mb-5" id="accordionEquipment">
+							<div class="accordion-item">
+								<div class="accordion-header" id="headingOne">
+									<div class="main-search-label accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+										Equipment
+									</div>
+								</div>
+								<div id="collapseOne" class="accordion-collapse collapse relative" aria-labelledby="headingOne" data-bs-parent="#accordionEquipment">
+									<div class="accordion-body">
+										<div class="row">
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox29State" name="tristateBox29State" value="1"  /> 
+													<label for="tristateBox29State">Air condition</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox1State" name="tristateBox1State" value="1"  /> 
+													<label for="tristateBox1State">Autopilot</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox48State" name="tristateBox48State" value="1"  /> 
+													<label for="tristateBox48State">Barbecue grill in cockpit</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox7State" name="tristateBox7State" value="1"  /> 
+													<label for="tristateBox7State">Bimini</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox9State" name="tristateBox9State" value="1"  /> 
+													<label for="tristateBox9State">Bow thruster</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox5State" name="tristateBox5State" value="1"  /> 
+													<label for="tristateBox5State">Chart plotter</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox17State" name="tristateBox17State" value="1"  /> 
+													<label for="tristateBox17State">Chart plotter in cockpit</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox45State" name="tristateBox45State" value="1"  /> 
+													<label for="tristateBox45State">Cockpit cushions</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox2State" name="tristateBox2State" value="1"  /> 
+													<label for="tristateBox2State">Cockpit speakers</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox25State" name="tristateBox25State" value="1"  /> 
+													<label for="tristateBox25State">Coffee maker</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox4State" name="tristateBox4State" value="1"  /> 
+													<label for="tristateBox4State">Dinghy</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox52State" name="tristateBox52State" value="1"  /> 
+													<label for="tristateBox52State">Dishwasher</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox26State" name="tristateBox26State" value="1"  /> 
+													<label for="tristateBox26State">Diving equipment</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox3State" name="tristateBox3State" value="1"  /> 
+													<label for="tristateBox3State">DVD player</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox27State" name="tristateBox27State" value="1"  /> 
+													<label for="tristateBox27State">Electric toilet</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox6State" name="tristateBox6State" value="1"  /> 
+													<label for="tristateBox6State">Electric winches</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox8State" name="tristateBox8State" value="1"  /> 
+													<label for="tristateBox8State">Flybridge</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox22State" name="tristateBox22State" value="1"  /> 
+													<label for="tristateBox22State">Game console</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox12State" name="tristateBox12State" value="1"  /> 
+													<label for="tristateBox12State">Generator</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox41State" name="tristateBox41State" value="1"  /> 
+													<label for="tristateBox41State">Gennaker</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox11State" name="tristateBox11State" value="1"  /> 
+													<label for="tristateBox11State">Heating</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox30State" name="tristateBox30State" value="1"  /> 
+													<label for="tristateBox30State">Holding tank</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox31State" name="tristateBox31State" value="1"  /> 
+													<label for="tristateBox31State">Hydraulic gangway</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox34State" name="tristateBox34State" value="1"  /> 
+													<label for="tristateBox34State">Ice maker</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox33State" name="tristateBox33State" value="1"  /> 
+													<label for="tristateBox33State">Inverter</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox35State" name="tristateBox35State" value="1"  /> 
+													<label for="tristateBox35State">Lazy bag</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox13State" name="tristateBox13State" value="1"  /> 
+													<label for="tristateBox13State">Lazy jack</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox18State" name="tristateBox18State" value="1"  /> 
+													<label for="tristateBox18State">Outboard engine</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox49State" name="tristateBox49State" value="1"  /> 
+													<label for="tristateBox49State">Outside Steering Position</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox43State" name="tristateBox43State" value="1"  /> 
+													<label for="tristateBox43State">Racing sails</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox10State" name="tristateBox10State" value="1"  /> 
+													<label for="tristateBox10State">Radar</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox14State" name="tristateBox14State" value="1"  /> 
+													<label for="tristateBox14State">Radio-CD player</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox36State" name="tristateBox36State" value="1"  /> 
+													<label for="tristateBox36State">Railing net</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox37State" name="tristateBox37State" value="1"  /> 
+													<label for="tristateBox37State">Refrigerator</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox40State" name="tristateBox40State" value="1"  /> 
+													<label for="tristateBox40State">Snorkeling equipment</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox46State" name="tristateBox46State" value="1"  /> 
+													<label for="tristateBox46State">Solar Panels</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox32State" name="tristateBox32State" value="1"  /> 
+													<label for="tristateBox32State">Spinnaker</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox16State" name="tristateBox16State" value="1"  /> 
+													<label for="tristateBox16State">Sprayhood</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox23State" name="tristateBox23State" value="1"  /> 
+													<label for="tristateBox23State">Stand up paddle</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox50State" name="tristateBox50State" value="1"  /> 
+													<label for="tristateBox50State">Swimming platform</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox47State" name="tristateBox47State" value="1"  /> 
+													<label for="tristateBox47State">Teak Cockpit</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox19State" name="tristateBox19State" value="1"  /> 
+													<label for="tristateBox19State">Teak deck</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox56State" name="tristateBox56State" value="1"  /> 
+													<label for="tristateBox56State">Tender garage</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox55State" name="tristateBox55State" value="1"  /> 
+													<label for="tristateBox55State">Tenderlift platform</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox42State" name="tristateBox42State" value="1"  /> 
+													<label for="tristateBox42State">TV</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox54State" name="tristateBox54State" value="1"  /> 
+													<label for="tristateBox54State">Underwater lights</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox53State" name="tristateBox53State" value="1"  /> 
+													<label for="tristateBox53State">Washer/Dryer</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox44State" name="tristateBox44State" value="1"  /> 
+													<label for="tristateBox44State">Water maker</label>
+												</div>
+											</div>
+																						<div class="col-12 col-md-6 col-xl-12">
+												<div class="equipment-check">
+																										<input type="checkbox" id="tristateBox21State" name="tristateBox21State" value="1"  /> 
+													<label for="tristateBox21State">Wi-Fi & Internet</label>
+												</div>
+											</div>
+																					</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						</div>
+					</div>
+					<div class="col-12 mt-2 mb-4">
+						<button class="btn btn-search w-100" type="submit">
+							<span class="btn-search-icon"></span>
+							<span>Search</span>
+						</button>						
+					</div>
+					<div class="col-12 px-2" style="height:0;overflow:hidden;">
+						<p>
+						<input type="checkbox" name="filter_availability_status" id="filter_availability_status" value="-1">
+						<label for="filter_availability_status" id="filter_availability_status_label">Include yachts without availability confirmation</label>
+						</p> 
+					</div>
+				</div><!-- end row -->
+			</div><!-- end con -->
+		
+		</div><!-- end wrapper -->
+			</form>
+
+</div>
+
+<script>
+
+
+
+function loadFilters(){
+	loadSpecificFilter(document.forms["box"].filteredcountries, "filterCountry", document.forms["box"].filter_country, "filter_country", "");
+	loadSpecificFilter(document.forms["box"].filteredregions, "filterRegion", document.forms["box"].filter_region, "filter_region", "7");
+	loadSpecificFilter(document.forms["box"].filteredservices, "filterService", document.forms["box"].filter_service, "filter_service", "");
+	loadSpecificFilter(document.forms["box"].filteredbases, "filterBase", document.forms["box"].filter_base, "filter_base", "");
+}
+
+function loadSpecificFilter(element, extraFilterId, element2, regularFilterId, parameter){
+	//preselecting regular filter
+	if(parameter!=""){
+		if(element2){
+			element2.value = parameter;
+			element2.onchange();
+		}
+	}
+
+	//creating and selecting extra filters
+	if (element){
+		value=element.value;
+	    if (value!=""){
+	    	var arr = value.split(",");
+	    	for(var i=0; i<arr.length; ++i){
+	    		var newElement = addFilterElement(extraFilterId);
+	    		newElement.value=arr[i];
+	    		newElement.onchange();
+	    	}
+	    }
+	}
+}
+
+
+
+</script>
+
+
+
+<!--script src="include/js/litepicker.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/litepicker/dist/plugins/mobilefriendly.js"></script-->
+
+<script>
+	let allDaysToBook = "false";
+	let firstSaturday = new Date();	
+        firstSaturday.setMonth(11);
+        firstSaturday.setDate(6);
+        firstSaturday.setFullYear(2025);
+	let nextSaturday = new Date(firstSaturday.getTime());
+		nextSaturday.setDate(nextSaturday.getDate() + 7);
+
+	
+
+	/*const startDatePicker = new Litepicker({ 
+		element: document.getElementById('start'),
+		plugins: ['mobilefriendly'],
+		mobilefriendly: {
+			breakpoint: 480,
+		},
+		format:"DD.MM.YYYY",
+		firstDay:0,
+		minDate:new Date(),
+		startDate: firstSaturday,
+		lockDaysFilter: (date, date2, date3) => {
+			let today = new Date();
+			if (date.getTime() > today.getTime() && date.getDay() == 6) {
+			return false;
+			} else {
+			return true;
+			}
+		},
+		setup: (picker) => {
+			picker.on("selected", (date1, date2) => {
+			let newFinishDate = date1.dateInstance;
+			newFinishDate.setDate(newFinishDate.getDate() + 7);
+			endDatePicker.setDate(newFinishDate);
+			});
+		},
+		
+	});
+
+	const endDatePicker = new Litepicker({ 
+		element: document.getElementById('finish'),
+		plugins: ['mobilefriendly'],
+		mobilefriendly: {
+			breakpoint: 480,
+		},
+		format:"DD.MM.YYYY",
+		firstDay:0,
+		minDate:new Date(),
+		startDate: nextSaturday,
+		lockDaysFilter: (date, date2, date3) => {
+			var startDate = startDatePicker.getDate();
+
+			if (startDate != null) {
+			var startDatePlus7 = startDate;
+			startDatePlus7.setDate(startDate.getDate() + 6);
+			if (date.getDay() == 6 && date.getTime() >= startDatePlus7.getTime()) {
+				return false;
+			} else {
+				return true;
+			}
+			}
+		},
+
+		
+	});*/
+
+	const allDaysPicker = new Litepicker({
+		element: document.getElementById('all-days'),
+		plugins: ['mobilefriendly'],
+		mobilefriendly: {
+			breakpoint: 480,
+		},
+		lang: 'en',
+		format:"DD.MM.YYYY",
+		firstDay:0,
+		singleMode:false,
+		minDate:new Date(),
+		numberOfColumns:2,
+		numberOfMonths:2,
+		startDate:firstSaturday,
+		endDate:nextSaturday,
+		disallowLockDaysInRange: true,
+		tooltipNumber: (totalDays) => {
+		   return totalDays - 1;
+		},
+		tooltipText: { "one":"night", "other":"nights" },
+		lockDaysFilter: (date, date2, date3) => {
+			let today = new Date();
+			let saturday = date.getTime() > today.getTime() && date.getDay() == 6;
+			let allDays = date.getTime() > today.getTime();
+		
+			if(allDaysToBook === "true"){
+				if(allDays){return false}else{return true};
+			} else {
+				if(saturday){return false}else{return true};
+			}
+			
+		}
+		
+	});
+
+
+
+
+	function submitForm(){
+		//dates part
+		/*let startDate = startDatePicker.getDate().dateInstance;
+		let finishDate = endDatePicker.getDate().dateInstance;*/
+		let startDate = allDaysPicker.getStartDate();
+		let finishDate = allDaysPicker.getEndDate();
+		document.forms["box"]['filter_date'].value = startDate.getDate();
+		document.forms["box"]['filter_month'].value = startDate.getMonth();
+		document.forms["box"]['filter_year'].value = startDate.getFullYear();
+		document.forms["box"]['filter_duration'].value = Math.round((finishDate.getTime() - startDate.getTime())/(1000*60*60*24));
+	}
+
+    /*jQuery(document).ready(function() {
+        //App.init();
+        //Masking.initMasking();
+
+        
+		$('#start').datepicker({
+            dateFormat: 'dd.mm.yy',
+            prevText: 'prev',
+            nextText: 'next',
+			monthNames: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+            onSelect: function(selectedDate){
+                var newFinishDate = $("#start").datepicker("getDate");
+                newFinishDate.setDate(newFinishDate.getDate() + 7);
+                $("#finish").datepicker( "setDate", newFinishDate );
+            },
+            beforeShowDay: function( date ){
+            	var today = new Date();
+            	var canSelect = date.getTime()>today.getTime() && date.getDay()==6;
+            	
+            	return [canSelect, , ]
+            }
+        });
+        
+        $('#finish').datepicker({
+            dateFormat: 'dd.mm.yy',
+            prevText: 'Prev',
+            nextText: 'Next',
+			monthNames: ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+            beforeShowDay: function( date ){
+            	var startDate = $("#start").datepicker("getDate");
+            	var canSelect = false;
+            	if(startDate!=null){
+            		var startDatePlus7 = startDate;
+            		startDatePlus7.setDate(startDate.getDate() + 6);
+            		if(date.getDay()==6 && date.getTime()>=startDatePlus7.getTime()){
+            			canSelect = true;
+            		}
+            	}
+            	
+            	return [canSelect, , ]
+            }
+        });
+        
+        var firstSaturday = new Date();
+        firstSaturday.setDate(6);
+        firstSaturday.setMonth(11);
+        firstSaturday.setFullYear(2025);
+        var nextSaturday = new Date(firstSaturday.getTime());
+        nextSaturday.setDate(nextSaturday.getDate()+7);
+        $("#start").datepicker("setDate", firstSaturday);
+        $("#finish").datepicker("setDate", nextSaturday);
+        Validation.initValidation();
+    });*/
+</script>
+
+	
+<script>
+function validateNumberForRange(numberToValidate,minValue,maxValue,defaultValue){
+	var tmpValue=defaultValue;
+	if (!isNaN(numberToValidate)&&numberToValidate!=null&&numberToValidate!=""){
+		tmpValue=eval(numberToValidate);
+		if (tmpValue<minValue||tmpValue>maxValue){
+		 	tmpValue=defaultValue;
+		}
+	}
+	return tmpValue;
+}
+/*
+	function parses and validates given number range and returns an array for the slider
+*/
+function parseRangeValuesString(inputValue,minValue,maxValue){
+	var tmpInitialPriceRange=inputValue.split("-");
+	var tmpMinValue=validateNumberForRange(tmpInitialPriceRange[0],minValue,maxValue,minValue);
+	var tmpMaxValue=validateNumberForRange(tmpInitialPriceRange[1],minValue,maxValue,maxValue);
+	return [tmpMinValue,tmpMaxValue];
+}
+
+//PRICE RANGE SLIDER
+$(function() {
+	var startPriceValue=parseRangeValuesString($( "#filter_price" ).val(),0,10001);
+	
+	function updatePriceRangeUI(event,ui){
+			var tmpValue = ui.values[ 0 ] + "-" + ui.values[1];
+			var tmpLabel = ui.values[ 0 ] + " - " + ui.values[1]+" EUR";
+			//if we are over the maximum 					
+			if (ui.values[1]>10000){
+				tmpValue=ui.values[ 0 ] + "-" + 1000000;
+				tmpLabel="&gt;"+ui.values[ 0 ]+" EUR";
+			}
+			$( "#filter_price" ).val( tmpValue );
+			$( "#price_range_label" ).html( tmpLabel );
+	}
+	
+	$("#slider_price_range").slider({
+		range: true,
+		min: 0,
+		max: 10001,
+		values: startPriceValue,
+		slide: updatePriceRangeUI,
+		change: updatePriceRangeUI
+	});
+	$("#slider_price_range").slider("values",startPriceValue);
+
+	var startYachtAgeValue=parseRangeValuesString($( "#filter_yachtage" ).val(),0,11);
+	function updateYachtAgeUI(event,ui){
+		var firstValue=ui.values[ 0 ];
+		if (ui.values[0]=="0"){
+			firstValue="";
+		}
+		var tmpValue = firstValue + "-" + ui.values[1];
+		var tmpLabel = ui.values[0] + " - " + ui.values[1]+" years";
+		//if we are over the maximum 					
+		if (ui.values[1]>10){
+			tmpValue=firstValue + "-" + 2000;
+			if (ui.values[0]=="0"){
+				tmpLabel="any";
+			}	else {
+				tmpLabel="&gt;"+ui.values[ 0 ]+" years";
+			}
+		}
+		$( "#filter_yachtage" ).val( tmpValue );
+		$( "#yachtage_label" ).html( tmpLabel );
+	}
+	
+	
+	$("#slider_yachtage").slider({
+		range: true,
+		min: 0,
+		max: 11,
+		values: startYachtAgeValue,
+		slide: 	updateYachtAgeUI,
+		change: updateYachtAgeUI
+	});
+	$("#slider_yachtage").slider("values",startYachtAgeValue);
+	
+	var startLengthValue=parseRangeValuesString($( "#filter_length" ).val(),0,19);
+	function updateLengthUI(event,ui){
+			var tmpValue = ui.values[ 0 ] + "-" + (eval(ui.values[1])-0.01);
+			var tmpLabel = ui.values[ 0 ] + " - " + ui.values[1]+" metres";
+			//if we are over the maximum 					
+			if (ui.values[1]>18){
+				tmpValue=ui.values[ 0 ] + "-" + 2000;
+				if (ui.values[0]=="0"){
+					tmpLabel="any";
+				}	else {
+					tmpLabel="&gt;"+ui.values[ 0 ]+" metres";
+				}
+				
+			}
+			
+			$( "#filter_length" ).val( tmpValue );
+			$( "#length_label" ).html( tmpLabel );
+	}
+	
+	$("#slider_length").slider({
+		range: true,
+		min: 0,
+		max: 19,
+		values: startLengthValue,
+		slide: updateLengthUI,
+		change: updateLengthUI
+	});
+	$("#slider_length").slider("values",startLengthValue);
+
+		var startCabinsValue=parseRangeValuesString($( "#filter_cabins" ).val(),0,8);
+	function updateCabinsUI(event,ui){
+			var tmpValue = ui.values[ 0 ] + "-" + ui.values[1];
+			var tmpLabel = ui.values[ 0 ] + " - " + ui.values[1];
+			//if we are over the maximum 					
+			if (ui.values[1]>7){
+				tmpValue=ui.values[ 0 ] + "-" + 2000;
+				if (ui.values[0]=="0"){
+					tmpLabel="choose_cabins";
+				}	else {
+					tmpLabel="&gt;"+ui.values[ 0 ];
+				}
+				
+			}
+			
+			$( "#filter_cabins" ).val( tmpValue );
+			$( "#cabins_label" ).html( tmpLabel );
+	}
+	
+	$("#slider_cabins").slider({
+		range: true,
+		min: 0,
+		max: 8,
+		values: startCabinsValue,
+		slide: updateCabinsUI,
+		change: updateCabinsUI
+	});
+	//$("#slider_cabins").slider("values",startCabinsValue);
+	updateCabinsUI(null, { values: startCabinsValue });
+	
+});
+</script>
+<script>
+// self executing function here
+(function() {
+   	// your page initialization code here
+   	// the DOM will be available here
+   	
+		loadFilters();
+	
+})();
+
+</script>
+        </aside>
+        <main class="col-12 col-xl-9">
+			<section class="sections mt-4">
+																					<script>
+		function goPage(page){
+			document.getElementById('resultsPage').value=page;
+			document.forms['paginationForm'].submit();
+		}
+	</script>
+	<div class="row">
+				<div id="aside-search-open" class="btn btn-search btn-md mb-2">
+			<span class="btn-search-icon me-2"></span>
+			<span>Search</span>
+		</div>
+		<div class="fs-32 text-center">Your search did not produce any results, please search again</div>
+			</div>
+		<section class="yachtlist">
+		<div class="row">
+					</div>
+	</section>
+				<script>
+			var changeHandler = function(){
+				$("form[name='form1']").submit();
+			};
+
+			(function(){
+			
+				//$('[name="resultsPerPage"]').change(changeHandler);
+				$('[name="sortBy"]').change(changeHandler);
+				$('[name="sortDirection"]').change(changeHandler);
+			
+			
+			})();
+	
+
+		
+			$('#filter_cabins_long').change(function(){
+				let $value = $(this).val();
+				$('[name="filter_cabins"]').val($value);
+				$("form[name='form1']").submit();
+			});
+			
+		</script>
+	
+</section>
+        </main>
+    </div>
+</div>
+	
+	<footer class="footer whitespace-top-lg gradient-fill">
+		
+
+		<div class="custom-container">
+
+		
+			<div class="row">
+				<div class="col-12 col-xl-3">
+					<a class="footer-logo" href="/">
+						<img src="images/site-logo.svg" alt="site-logo">
+					</a>
+				</div>
+				
+				<div class="col-12 col-xl-3">
+					<h3>
+						About us
+					</h3> 
+					<div class="row">
+						<div class="col-12">
+							<ul>
+								
+								
+								
+									<li>
+										<a class="footer-links" href="en/about-us.html">
+											About us
+										</a>
+									</li>
+								
+								
+									<li>
+										<a class="footer-links" href="en/terms-and-conditions.html">
+											Terms and Conditions
+										</a>
+									</li>
+								
+								
+									<li>
+										<a class="footer-links" href="en/privacy-policy.html">
+											Privacy policy
+										</a>
+									</li>
+								
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-12 col-xl-3">
+					<h3>Charter</h3>
+					<ul>
+						<li>
+							<a href="en/yacht/Sun+Odyssey+469-Lemon_p_yachtId-6362109340000107850.html">Our Yacht</a>
+						</li>
+						
+						
+						
+						<li>
+							<a href="en/destinations/ionian-sea.html">
+								Ionian Sea
+							</a>
+						</li>
+						
+						
+						
+					</ul>
+				</div>
+
+				<div class="col-12 col-xl-3 social-links">
+					<h3>
+						Follow us
+					</h3>
+
+					   
+
+<div class="social-links-wrapper">
+	
+
+	
+
+	
+
+	
+
+	
+</div>
+
+<address class="footer-address">
+	
+		
+    <p>
+YOLO CHARTERS
+    </p>
+
+    <p>
+Ermou 1, PC 54625, Thessaloniki, Greece
+    </p>
+
+    <p>
+Phone:&#160;<a href="tel:+306985064875">+30 698 506 4875</a>
+    </p>
+
+    <p>
+Email:&#160;<a href="mailto:info@yolo-charters.com">info@yolo-charters.com</a>
+
+    </p>
+
+  
+	
+</address>
+
+
+				</div>
+			</div>
+
+
+			<div class="row">
+				<div class="copyright col-12">
+					<div class="copyright-wrapper">
+						<p class="color-light">&copy; Yolo Charters 2023-2025 All rights reserved</p>
+						<a href="https://www.booking-manager.com" target="_blank"><img src="images/bm-logo-white.webp" alt="MMK Systems Logo"/></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</footer> <!-- /.footer -->
+
+	<div class="scroll-progress">
+		<span class="scroll-progress-value">
+			<svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M6.61162 3.65652L2.63138 7.60938C2.42071 7.81735 2.13574 7.93408 1.8387 7.93408C1.54166 7.93408 1.25669 7.81735 1.04602 7.60938C0.94064 7.50557 0.856994 7.38207 0.799911 7.246C0.742829 7.10993 0.71344 6.96398 0.71344 6.81657C0.71344 6.66916 0.742829 6.52322 0.799911 6.38714C0.856994 6.25107 0.94064 6.12757 1.04602 6.02377L5.81332 1.28928C5.91785 1.18462 6.0422 1.10155 6.17922 1.04486C6.31623 0.988171 6.46319 0.958984 6.61162 0.958984C6.76005 0.958984 6.90701 0.988171 7.04402 1.04486C7.18104 1.10155 7.30539 1.18462 7.40992 1.28928L12.2334 6.02377C12.3376 6.12811 12.4201 6.25185 12.476 6.38789C12.532 6.52394 12.5604 6.66962 12.5595 6.81657C12.5604 6.96353 12.532 7.1092 12.476 7.24525C12.4201 7.3813 12.3376 7.50504 12.2334 7.60938C12.0228 7.81735 11.7378 7.93408 11.4408 7.93408C11.1437 7.93408 10.8587 7.81735 10.6481 7.60938L6.61162 3.65652Z" fill="#fff"/>
+			</svg>
+		</span>
+	</div> <!-- /.scroll-progress -->
+
+	
+	<div id="customModalQuote" class="custom-modal custom-modal-quote">
+
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">
+					Wishlist
+				</h4>
+				<div class="close-quote">
+					<svg width="44" height="46" viewBox="0 0 44 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<line x1="0.707107" y1="1.30901" x2="43.1335" y2="43.7354" stroke="#F1F5F9" stroke-width="2"></line>
+						<line x1="43.1336" y1="2.70711" x2="0.707214" y2="45.1335" stroke="#F1F5F9" stroke-width="2"></line>
+					</svg>
+				</div>
+			</div>
+			<div class="modal-body">
+				
+				<div class="mb-3">
+					<div class="delete-all" onclick="clearQueue();">
+						Delete all
+					</div>
+				</div>
+					
+				<div id="queueContainer" style="overflow-y:auto;"></div>
+				<div id="empty-cart" class="color-light">
+					Your list is empty.
+				</div>
+			</div>
+			<div class="d-md-flex p-3">
+				<div class="col-12 d-flex flex-column flex-md-row">
+					<input type="text" id="emailTo" class="form-control rounded-0" name="emailTo" placeholder="enter E-mail"/>
+					<button type="button" class="btn btn-secondary px-5 mt-3 mt-md-0" onclick="prepareSendQuote();">
+						Send
+					</button>
+				</div>
+			</div>
+			<div class="modal-footer-bottom p-3 text-center">
+				<div id="sending"></div>
+				<div id="resultingMessageElementID"></div>
+			</div>
+		</div>
+	</div> <!-- /.custom-modal -->
+
+	<script src="dist/js/plugins.min.js"></script>
+	<script src="dist/js/custom.min.js"></script>
+
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+				executeRequest("templates/priceQuoteList.jsp?action=getQueue");
+		});
+		
+	function getQuoteItem(resourceid, dateFrom, dateTo, reservationId, baseFrom, baseTo, product){
+		executeRequest("templates/priceQuoteList.jsp?action=addToQueue&resourceid="+resourceid+"&dateFrom="+dateFrom+"&dateTo="+dateTo+"&reservationId="+reservationId+"&baseFromId="+baseFrom+"&baseToId="+baseTo+"&product="+product);
+	}
+	function deleteFromQueue(uniqueId){
+		executeRequest("templates/priceQuoteList.jsp?action=deleteFromQueue&uniqueId="+uniqueId);
+		var item = jQuery("#"+uniqueId);
+		if(item.hasClass("added-to-quote")){
+			item.removeClass("added-to-quote");
+		} else{
+			item.addClass("added-to-quote");
+		}
+	}
+	function changeQuoteItemDiscount(uniqueId, increment){
+		executeRequest("templates/priceQuoteList.jsp?action=changeDiscount&uniqueId="+uniqueId+"&increment="+increment);
+	}
+	function clearQueue(){
+		executeRequest("templates/priceQuoteList.jsp?action=clearQueue");
+		var items = jQuery(".card");
+		items.closest('.added-to-quote').removeClass('added-to-quote');
+	}
+	function prepareSendQuote(){
+		//TODO Dean, here you need to add the loading spinner
+		//$("modalDialogContentID").addClass("spinner"); //spinner is added to element with provided ID
+		document.getElementById("sending").innerHTML = "Sending email";//test
+		
+		var emailTo = document.getElementById("emailTo").value;
+		sendQuote(emailTo);
+	}
+
+	function sendQuote(email){
+		var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+		xmlhttp.onreadystatechange=function(){
+			if (xmlhttp.readyState==4 && xmlhttp.status==200){
+				//TODO Dean, here you need to remove the loading spinner and show success or failure message
+				//$("modalDialogContentID").removeClass("spinner"); //spinner is removed from element with provided ID
+				document.getElementById("sending").innerHTML = "";//TODO test, remove it later
+				document.getElementById("resultingMessageElementID").innerHTML = xmlhttp.responseText; // response message is written to element with provided ID
+			}
+		}
+		xmlhttp.open("POST","templates/sendPriceQuote.jsp?emailTo="+email,true);
+		xmlhttp.send();
+	}
+
+	function executeRequest(link){
+		var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+		xmlhttp.onreadystatechange=function(){
+			if (xmlhttp.readyState==4 && xmlhttp.status==200){
+				document.getElementById("queueContainer").innerHTML = xmlhttp.responseText;
+				var pqItemsCount = 0;
+				if(document.getElementById("queueItemsCount")!=null){
+					pqItemsCount = document.getElementById("pqItemsCount").value;
+					document.getElementById("queueItemsCount").innerHTML = pqItemsCount;
+				}
+				$("#scrollDiv").css("max-height",$("#holderAdjustHeight").height());
+				
+				$(function() {
+					var foundInQuote = [];
+					$(".price-quote").each(function() {
+						var itemInQuoteUUID = $(this).data("uuid");
+						var elementInResults = $("#"+itemInQuoteUUID);
+						var elementExists = elementInResults.length;
+						if(elementExists){
+							foundInQuote.push(itemInQuoteUUID);
+							elementInResults.addClass("added-to-quote");
+						}
+					});
+					
+					//go through all searchresult items and if isn't in the quote remove the class definition
+					$(".searchresult-item").each(function() {
+						var searchResultItemId = $(this).attr('id');
+						if(foundInQuote.indexOf(searchResultItemId)==-1){
+							$(this).removeClass("added-to-quote");
+						}
+					});
+					
+					var disableButton = true;
+					var emptyCartDiv = document.getElementById("empty-cart");
+					if(parseInt(pqItemsCount)!=0){
+						disableButton = false;
+						emptyCartDiv.style.display = "none";
+					} else {
+						emptyCartDiv.style.display = "block";
+					}
+
+					$("#compare-cart").prop('disabled', disableButton);
+				});
+			} 
+		}
+		xmlhttp.open("POST",link,true);
+		xmlhttp.send();
+	}
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,60 @@
+{
+  "css_files": [
+    "dist/css/style.min.css",
+    "src/css/jquery-ui.min.css",
+    "src/css/magnific-popup.min.css",
+    "src/css/photo-swipe.min.css",
+    "src/css/select2.min.css"
+  ],
+  "js_files": [
+    "dist/js/custom.min.js",
+    "dist/js/plugins.min.js",
+    "https://cdn.jsdelivr.net/npm/litepicker/dist/plugins/mobilefriendly.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery-bootpag/1.0.4/jquery.bootpag.min.js",
+    "https://www.google.com/recaptcha/api.js?hl=",
+    "src/js/jquery.min.js",
+    "src/js/litepicker.js",
+    "src/js/mobilefriendly.js"
+  ],
+  "cdn_resources": [
+    "https://cdn.jsdelivr.net/npm/litepicker/dist/plugins/mobilefriendly.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery-bootpag/1.0.4/jquery.bootpag.min.js",
+    "https://www.google.com/recaptcha/api.js?hl="
+  ],
+  "libraries": {
+    "jQuery": {
+      "detected": true
+    },
+    "Litepicker": {
+      "detected": true
+    },
+    "Select2": {
+      "detected": true
+    },
+    "PhotoSwipe": {
+      "detected": true
+    },
+    "Magnific Popup": {
+      "detected": true
+    },
+    "jQuery UI": {
+      "detected": true
+    },
+    "Google reCAPTCHA": {
+      "detected": true
+    },
+    "jQuery Bootpag": {
+      "detected": true
+    }
+  },
+  "page_titles": [
+    "Yolo Charters\n\t\t\n\t\n\t &vert; Yolo Charters",
+    "Our Yachts\n\t\t\t\n\t\t\n\t &vert; Yolo Charters",
+    "Ionian Sea\n\t\t\n\t &vert; Yolo Charters",
+    "About Yolo Charters\n\t\t\n\t &vert; Yolo Charters",
+    "Blog\n\t\t\n\t &vert; Yolo Charters",
+    "Do you need any help?\n\t\t\n\t &vert; Yolo Charters",
+    "Sun Odyssey 469 - Lemon\n\t\n\t\n\t\t\n\t\t\n\t\t\t\n\t\t\tOur Yacht\n\t\t\n\t &vert; Yolo Charters",
+    "Search results\n\t\t\n\t &vert; Yolo Charters"
+  ]
+}

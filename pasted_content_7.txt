@@ -1,0 +1,1150 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+
+
+
+<head>
+
+
+<base href="//yolo-charters.com/" />
+
+	<link rel="canonical" href="https://yolo-charters.com/en/yacht/Sun+Odyssey+469-Lemon_p_yachtId-6362109340000107850.html" />
+
+
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="alternate" href="https://www.yolo-charters.com" hreflang="en" />
+<!-- robot meta tags -->
+
+
+<meta name="description" content="MMK Template 1 description" />
+
+<title>
+	Sun Odyssey 469 - Lemon
+	
+	
+		
+		
+			
+			Our Yacht
+		
+	 &vert; Yolo Charters
+</title>
+
+<meta property="og:type" content="website" />
+
+	<meta property="og:url" content="//yolo-charters.com/en/yacht/Sun+Odyssey+469-Lemon_p_yachtId-6362109340000107850.html" />
+
+
+<meta property="og:title" content="Our Yacht">
+<meta property="og:image" content="https://www.yolo-charters.com/images/no_image.jpg" />
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="200">
+<meta property="og:description" content="MMK Template 1 description" />
+<meta property="twitter:creator" content="Yolo Charters">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Our Yacht">
+<meta property="twitter:description" content="">
+<link rel="icon" type="image/png" href="images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="icon" type="image/png" href="images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" sizes="192x192"  href="images/favicon/android-chrome-192x192.png">
+
+<link rel="stylesheet" href="src/css/jquery-ui.min.css">
+<link rel="stylesheet" href="src/css/photo-swipe.min.css">
+<link rel="stylesheet" href="src/css/magnific-popup.min.css">
+<link rel="stylesheet" href="src/css/select2.min.css">
+
+<link rel="stylesheet" href="dist/css/style.min.css">
+
+
+<script src="src/js/jquery.min.js"></script>
+
+<script src="src/js/litepicker.js"></script>
+<script src="src/js/mobilefriendly.js"></script>
+</head>
+<body class="yacht">
+	
+	
+	<header class="header header-dark">
+		<div class="custom-container">
+			<div class="header-wrapper">
+				<a class="nav-logo" href="/">
+					<img src="images/site-logo.svg" alt="site-logo">
+				</a>
+				<nav class="nav header-wrapper-navigation">
+					<ul class="main-nav">
+						
+						
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu1" class="nav-link" href="en/our-yachts.html">Our Yachts&nbsp;</a>
+								<span class="first-menu-span"></span>
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+							
+								<a id="menu2" class="nav-link" href="en/destinations/ionian-sea.html">Destinations&nbsp;</a>
+								
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu3" class="nav-link" href="en/about-us.html">About us&nbsp;</a>
+								
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu4" class="nav-link" href="en/blog.html">Blog&nbsp;</a>
+								
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+						
+						
+						
+						
+						
+							
+						
+						
+							<li >
+							
+							
+							
+							
+							
+								<a id="menu5" class="nav-link" href="en/contact.html">Contact us&nbsp;</a>
+								<span class="first-menu-span"></span>
+							
+							
+							
+							
+							
+							
+							
+							</li>
+							
+						
+
+						<div class="lang d-none">
+							<div class="lang-btn d-flex">
+								EN
+								
+							</div>
+							
+							<ul class="lang-list">
+								<li><a class="lang-item" href="https://www.yolo-charters.com/">English</a></li>
+								
+							</ul>
+						</div>
+					</ul>
+
+					<div class="header-wrapper-navigation__wrap">
+						
+
+						<div id="hamburger-mobile" class="hamburger">
+							<div class="hamburger_icons">
+								<div class="icon-1" id="a"></div>
+								<div class="icon-2" id="b"></div>
+								<div class="icon-3" id="c"></div>
+							</div>
+						</div>
+					</div>
+				</nav>				
+			</div>
+		</div>
+	</header>
+
+	
+
+	
+		
+	
+
+	 
+ 
+ 
+ 
+ 
+
+
+
+<section class="hero_inner-pages yacht-inner">
+    <div class="custom-container">
+        <div class="hero_content row">
+
+			<div class="col-12 mb-5">
+				<ul class="breadcrumb">
+					<li><a href="/">Home</a></li>
+					<li><a href="">Yacht Details</a></li>
+					<li>Sun Odyssey 469 Lemon</li>
+				</ul>
+			</div>
+
+            <section class="col-12 d-flex flex-column align-items-center justify-content-center">
+                <h1>Lemon</h1>
+                <h2> Sun Odyssey 469</h2>
+            </section>
+        </div>
+    </div>
+</section>
+
+<main class="yachtdetails">
+	<div class="custom-container">
+		<div class="row mt-3 mb-3">
+
+			<div class="col-12 py-3 d-flex">
+				<div class="back" onclick="history.back()">
+					<svg width="29" height="16" viewBox="0 0 29 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM29 7L1 7V9L29 9V7Z" fill="#0076FA"/>
+					</svg>
+					<div class="fs-18 fw-600 ms-3 text-capitalize color-secondary">back</div>
+				</div>
+			</div>
+
+			<div class="col-12">
+
+				<section class="relative">
+					<div class="my-gallery row">
+						<div class="col-12 col-lg-8">
+														<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon - External image" href="bmdoc/6604177310000107850_Lemon_0009.webp?width=1200&defaultToEmpty=true">
+								<img src="bmdoc/6604177310000107850_Lemon_0009.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - Lemon  - External image" class="main-img" loading="lazy"/>
+							</a>
+						</div>
+
+						<div class="col-lg-4 d-none d-lg-flex my-gallery-thumbs">				
+							
+														<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon - Internal image" href="bmdoc/6604177370000107850_Lemon_0026.webp?width=1200&defaultToEmpty=true" class="">
+								<img src="bmdoc/6604177370000107850_Lemon_0026.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - Lemon  - Internal image" class="thumb" loading="lazy"/>
+							</a>
+
+														<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon - Layout image"  href="bmdoc/6604177350000107850_sun-odyssey-lemon.webp?width=1200&defaultToEmpty=true" class="">
+								<img src="bmdoc/6604177350000107850_sun-odyssey-lemon.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - Lemon  - Layout image" class="thumb thumb-small" loading="lazy"/>
+							</a>
+						</div>
+							
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179210000107850_Lemon_0001.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179210000107850_Lemon_0001.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179230000107850_Lemon_0008.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179230000107850_Lemon_0008.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179250000107850_Lemon_0014.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179250000107850_Lemon_0014.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179270000107850_Lemon_0020.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179270000107850_Lemon_0020.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179290000107850_Lemon_0023.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179290000107850_Lemon_0023.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179310000107850_Lemon_0031.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179310000107850_Lemon_0031.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+												<a data-pswp-width="1200" data-pswp-height="900" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179330000107850_Lemon_0041.webp?width=1200&defaultToEmpty=true" class="d-none">
+							<img src="bmdoc/6604179330000107850_Lemon_0041.webp?width=1200&defaultToEmpty=true" alt="Sun Odyssey 469 - " loading="lazy" />
+						</a>
+						
+											</div>
+
+					<div class="d-flex flex-column flex-md-row justify-content-between align-items-center mt-3">
+						<div>
+							<a class="color-primary location-link" href="https://maps.google.com/maps?q=38.957648, 20.755213&z=16" target="_blank" class="yacht-tag">
+								<svg xmlns="http://www.w3.org/2000/svg" width="34" height="32" viewBox="0 0 34 32" fill="none">
+									<path d="M17 28C21.9584 23.2 26.9167 18.9019 26.9167 13.6C26.9167 8.29807 22.4769 4 17 4C11.5232 4 7.08337 8.29807 7.08337 13.6C7.08337 18.9019 12.0417 23.2 17 28Z" stroke="#003066" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+									<path d="M17 16C18.5648 16 19.8334 14.8061 19.8334 13.3333C19.8334 11.8606 18.5648 10.6667 17 10.6667C15.4352 10.6667 14.1667 11.8606 14.1667 13.3333C14.1667 14.8061 15.4352 16 17 16Z" stroke="#003066" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+								</svg>
+								<span>Preveza Main Port, Greece</span>, Greece
+							</a>
+						</div>
+
+						<div class="my-3" data-bs-toggle="modal" data-bs-target="#viewAllPhotosModal">
+							<div class="btn-all-photos fs-18 fw-bold me-2 color-secondary">All photos</div>
+						</div>
+					</div>
+
+				</section>
+
+				
+			</div>
+		</div>
+
+     
+
+		
+		<div class="row yachtdetails-images-wrapper">
+
+			<div class="col-12 col-lg-8">
+
+				<section id="specification" class="specification-list">
+		
+					<div class="d-flex flex-column">
+						
+						<div class="d-flex flex-column">
+							
+							<div class="spec-item-wrap">
+									
+								<div class="d-flex spec-item box">
+									<svg xmlns="http://www.w3.org/2000/svg" width="39" height="47" viewBox="0 0 39 47" fill="none">
+										<path d="M24.0596 11.635C23.4461 11.6984 23.007 12.1671 23.0834 12.6768C23.1598 13.1866 23.7238 13.5514 24.3373 13.488L27.96 13.1132L9.1767 33.1605L8.72563 30.1502C8.64925 29.6405 8.08525 29.2756 7.47178 29.3391C6.85832 29.4025 6.41922 29.8712 6.4956 30.3809L7.28214 35.63C7.35853 36.1398 7.92252 36.5047 8.53599 36.4412L14.853 35.7876C15.1597 35.7559 15.4261 35.6234 15.6039 35.4336C15.7818 35.2438 15.8674 35.0006 15.8328 34.7419C15.7564 34.2321 15.1924 33.8673 14.579 33.9307L10.9562 34.3055L29.7395 14.2582L30.1906 17.2685C30.267 17.7782 30.831 18.1431 31.4445 18.0796C31.7512 18.0479 32.0176 17.9154 32.1954 17.7256C32.3732 17.5358 32.4588 17.2926 32.4243 17.0339L31.6377 11.7848C31.5613 11.275 30.9974 10.9102 30.3839 10.9736L24.0669 11.6272L24.0596 11.635Z" fill="#87C4FF"/>
+										<path d="M1.19609 35.5988C0.81505 36.0055 0.902789 36.591 1.39221 36.9076L8.49577 41.5032C8.98519 41.8198 9.68984 41.7469 10.0709 41.3402C10.4519 40.9335 10.3642 40.348 9.87476 40.0314L2.7712 35.4359C2.28178 35.1192 1.57712 35.1921 1.19609 35.5988Z" fill="#87C4FF"/>
+										<path d="M28.8479 6.08539C28.4669 6.49207 28.5546 7.0776 29.0441 7.39422L36.1476 11.9897C36.637 12.3064 37.3417 12.2335 37.7227 11.8268C38.1038 11.4201 38.016 10.8346 37.5266 10.518L30.4231 5.92243C29.9336 5.60581 29.229 5.67871 28.8479 6.08539Z" fill="#87C4FF"/>
+									</svg>
+									<div class="ms-2">
+										<div class="fs-16 mb-2">Length</div>
+										<h4 class="fs-16">
+											46 ft
+										</h4>
+									</div>
+								</div>	
+
+							
+								<div class="d-flex spec-item box">
+									<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30" fill="none">
+										<g clip-path="url(#clip0_212_4283)">
+										<path d="M12.8126 14.0625H0.9375C0.419998 14.0625 0 13.6425 0 13.125C0 12.6075 0.419998 12.1875 0.9375 12.1875H12.8126C13.3301 12.1875 13.7501 12.6075 13.7501 13.125C13.7501 13.6425 13.3301 14.0625 12.8126 14.0625Z" fill="#87C4FF"/>
+										<path d="M8.12502 18.75C7.88492 18.75 7.64505 18.6587 7.4624 18.4751C7.09619 18.1087 7.09619 17.515 7.4624 17.1487L11.4875 13.1239L7.4624 9.10011C7.09619 8.73367 7.09619 8.13995 7.4624 7.77374C7.82861 7.40753 8.42233 7.40753 8.78877 7.77374L13.4763 12.4612C13.8425 12.8275 13.8425 13.4212 13.4763 13.7876L8.78877 18.4751C8.60498 18.6587 8.36488 18.75 8.12502 18.75Z" fill="#87C4FF"/>
+										<path d="M20 30C18.6212 30 17.5001 28.8787 17.5001 27.5V4.99995C17.5001 3.9313 18.1801 2.97755 19.1925 2.62622L26.7025 0.122479C28.3825 -0.392505 30 0.853756 30 2.5001V25.0001C30 26.0676 29.32 27.02 28.3088 27.3725L20.7962 29.8776C20.5225 29.9625 20.2689 30 20 30ZM27.5 1.87503C27.4187 1.87503 27.3501 1.8851 27.2764 1.90753L19.7976 4.4012C19.5525 4.48634 19.3751 4.73376 19.3751 4.99995V27.5C19.3751 27.9264 19.8375 28.2138 20.2238 28.0925L27.7025 25.5989C27.9463 25.5137 28.125 25.2663 28.125 25.0001V2.5001C28.125 2.15632 27.8451 1.87503 27.5 1.87503Z" fill="#87C4FF"/>
+										<path d="M10.9376 6.25008C10.4201 6.25008 10.0001 5.83008 10.0001 5.31258V3.43758C10.0001 1.54129 11.5412 0 13.4375 0H27.5C28.0175 0 28.4375 0.419998 28.4375 0.9375C28.4375 1.455 28.0175 1.875 27.5 1.875H13.4375C12.5762 1.875 11.8751 2.57629 11.8751 3.43758V5.31258C11.8751 5.83008 11.4551 6.25008 10.9376 6.25008Z" fill="#87C4FF"/>
+										<path d="M18.4376 26.25H13.4375C11.5412 26.25 10.0001 24.7087 10.0001 22.8124V20.9374C10.0001 20.4199 10.4201 19.9999 10.9376 19.9999C11.4551 19.9999 11.8751 20.4199 11.8751 20.9374V22.8124C11.8751 23.6737 12.5762 24.375 13.4375 24.375H18.4376C18.9551 24.375 19.3751 24.795 19.3751 25.3125C19.3751 25.83 18.9551 26.25 18.4376 26.25Z" fill="#87C4FF"/>
+										</g>
+										<defs>
+										<clipPath id="clip0_212_4283">
+										<rect width="30" height="30" fill="white"/>
+										</clipPath>
+										</defs>
+									</svg>
+									<div class="ms-3">
+										<div class="fs-16 mb-2">Cabins</div>
+										<h4 class="fs-16">
+																						4
+																					</h4>
+									</div>
+								</div>	
+
+								<div class="d-flex spec-item box">
+									<svg xmlns="http://www.w3.org/2000/svg" width="33" height="32" viewBox="0 0 33 32" fill="none">
+									<mask id="mask0_205_1340" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="33" height="32">
+										<path d="M31.652 31V0.999905H1.65186V31H31.652Z" fill="white" stroke="white" stroke-width="2"/>
+									</mask>
+									<g mask="url(#mask0_205_1340)">
+										<path d="M8.23096 0.937457V4.55716C8.23096 11.9527 16.6524 16 16.6524 16C16.6524 16 25.0737 11.9527 25.0737 4.55716V0.937457H8.23096Z" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M16.6524 16C16.6524 16 8.23096 20.0473 8.23096 27.4428V31.0625H25.0738V27.4428C25.0738 20.0473 16.6524 16 16.6524 16Z" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M8.23026 0.9375H5.96338" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M25.0728 0.9375H27.3396" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M8.23026 31.0625H5.96338" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M25.0728 31.0625H27.3396" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M9.15625 8.69434H24.0521" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+										<path d="M12.026 27.0184L8.23096 31.0625H24.9763L21.1812 27.0184C18.7016 24.3759 14.5057 24.3759 12.026 27.0184Z" stroke="#87C4FF" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+									</g>
+									</svg>
+									<div class="ms-3">
+										<div class="fs-16 mb-2">Year</div>
+										<h4 class="fs-16">
+										2013
+										</h4>
+									</div>
+								</div>	
+
+								<div class="d-flex spec-item box">
+									<svg xmlns="http://www.w3.org/2000/svg" width="38" height="41" viewBox="0 0 38 41" fill="none">
+									<path d="M29.148 0.723145H19.3885C14.7227 0.723145 10.9268 4.22778 10.9268 8.53564V13.1285C5.28714 13.8878 0.941895 18.3818 0.941895 23.7963C0.941895 24.659 1.69949 25.3588 2.63425 25.3588H22.604C23.5388 25.3588 24.2963 24.659 24.2963 23.7963C24.2963 18.3818 19.9511 13.8878 14.3115 13.1285V8.53564C14.3115 5.95081 16.5889 3.84814 19.3885 3.84814H29.1476C31.9473 3.84814 34.2247 5.95081 34.2247 8.53564V39.1606C34.2247 40.0237 34.9823 40.7231 35.9171 40.7231C36.8518 40.7231 37.6094 40.0237 37.6094 39.1606V8.53564C37.6097 4.22778 33.8135 0.723145 29.148 0.723145ZM20.7381 22.2335H4.50013C5.2835 18.7584 8.62623 16.1397 12.6191 16.1397C16.612 16.1397 19.9547 18.7584 20.7381 22.2335ZM14.3115 29.1738V31.5175C14.3115 32.3806 13.5539 33.08 12.6191 33.08C11.6844 33.08 10.9268 32.3806 10.9268 31.5175V29.1738C10.9268 28.3107 11.6844 27.6113 12.6191 27.6113C13.5539 27.6113 14.3115 28.3107 14.3115 29.1738ZM14.2913 36.8169V39.1606C14.2913 40.0237 13.5337 40.7231 12.599 40.7231C11.6645 40.7231 10.9066 40.0237 10.9066 39.1606V36.8169C10.9066 35.9539 11.6645 35.2544 12.599 35.2544C13.5337 35.2544 14.2913 35.9539 14.2913 36.8169ZM7.66503 29.1738V31.5175C7.66503 32.3806 6.9071 33.08 5.97267 33.08C5.03791 33.08 4.28032 32.3806 4.28032 31.5175V29.1738C4.28032 28.3107 5.03791 27.6113 5.97267 27.6113C6.9071 27.6113 7.66503 28.3107 7.66503 29.1738ZM7.64486 36.8169V39.1606C7.64486 40.0237 6.88727 40.7231 5.95251 40.7231C5.01775 40.7231 4.26016 40.0237 4.26016 39.1606V36.8169C4.26016 35.9539 5.01775 35.2544 5.95251 35.2544C6.88727 35.2544 7.64486 35.9539 7.64486 36.8169ZM20.9381 29.1738V31.5175C20.9381 32.3806 20.1802 33.08 19.2457 33.08C18.311 33.08 17.5534 32.3806 17.5534 31.5175V29.1738C17.5534 28.3107 18.311 27.6113 19.2457 27.6113C20.1802 27.6113 20.9381 28.3107 20.9381 29.1738ZM20.9179 36.8169V39.1606C20.9179 40.0237 20.16 40.7231 19.2256 40.7231C18.2908 40.7231 17.5332 40.0237 17.5332 39.1606V36.8169C17.5332 35.9539 18.2908 35.2544 19.2256 35.2544C20.16 35.2544 20.9179 35.9539 20.9179 36.8169Z" fill="#87C4FF"/>
+									</svg>
+									<div class="ms-3">
+										<div class="fs-16 mb-2 text-capitalize">head</div>
+										<h4 class="fs-16">
+																						4
+																					</h4>
+									</div>
+								</div>	
+							
+							</div>
+							
+						</div>
+					</div>
+				</section>
+			
+				<!-- remarks -->
+								
+
+				<section class="mb-5 pt-5 pt-md-3">
+
+					<div class="specification-list">
+						<h3 class="mb-5">Technical characteristics</h3>
+						<div class="d-flex flex-column">
+							<div class="d-flex flex-column flex-sm-row">
+
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Draught:</p>
+																			<div class="fs-16">7 ft</div>
+																		
+								</div>
+
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Engine:</p>
+																			<div class="fs-16">54 hp</div>
+																		
+								</div>
+
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Water capacity:</p>
+																			<div class="fs-16">615.00 l</div>
+																		
+								</div>
+
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Main sail:</p>
+																			<div class="fs-16">Furling</div>
+																		
+								</div>
+
+							
+								
+							</div>
+							<div class="d-flex flex-column flex-sm-row">
+
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Displacement:</p>
+																			<div class="fs-16">10800.00 kg</div>
+																		
+								</div>
+
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Fuel capacity:</p>
+																			<div class="fs-16">240.00 l</div>
+																		
+								</div>
+								
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Beam:</p>
+																			<div class="fs-16">15 ft &verbar; <span class="length-value" data-length-value="15 ft"></span></div>
+																		
+								</div>
+							
+								<div class="spec-item spec-item-mobile">
+									<p class="fs-14 text-uppercase mb-2 me-2">Genoa:</p>
+																			<div class="fs-16">Furling</div>
+																		
+								</div>
+								
+							</div>
+							
+						</div>
+						
+					</div>
+				</section>
+
+								<section class="mb-5 pt-3 border-top-grey">
+					<div class="d-flex flex-column mt-4">
+						<h3 class="fs-32 fw-600 mb-4">Equipment</h3>
+																		<div class="spec-item">
+														<div class="fs-14 me-2 mb-3 uppercase">Equipment:</div>
+							<div class="fs-16">
+																Electric Toilet (1 out of 4), Solar Panels, Heating System, Wi-Fi, Outboard Engine, Freezer, Inverter, Fridge, Bathing platform, Cooker/Stove, Coffe Machine, Oven, Sun Pads, Outside Shower, Radio CD / MP3 player / Audio system, Flat screen TV, Outside Deck Speakers, Bimini, Outside GPS plotter, Liferaft, Autopilot, Electric winches (1 out of 5), Inside speakers, Bow thruster, Kitchen Utensils, Dinghy, Stand-up Paddle, Snorkel kit, Inside (saloon) GPS plotter, Dinghy Engine (outboard)							</div>
+						</div>	
+											</div>
+				</section>
+								
+			
+				<!-- reviews -->
+				
+				
+			</div>
+
+			<aside class="col-lg-4">
+				<div class="yachtdetails-aside sticky mb-4">
+					<div class="d-flex flex-column mb-4">
+						<span class="uppercase fs-14">From</span>
+						<div>
+							<span id="currency" class="fs-32 fw-bold ms-1 color-secondary"></span>
+							<span class="fw-light">week</span>
+						</div>
+					</div>
+					<div class="yachtdetails-aside-box mb-4">
+						
+						<div class="d-flex flex-column w-100">
+							<label for="litepicker-small" class="fs-16 text-uppercase mb-2">Start date - end date</label>
+																						<div id="litepicker" class="center"></div>
+    <script src="src/js/litepicker.js"></script>
+    <script>
+		const picker = new Litepicker({
+		element: document.getElementById("litepicker"),
+		isResponsive: true,
+		lang: 'en',
+		inlineMode: true,
+		singleMode: false,
+		firstDay: 7,
+		numberOfColumns: 3,
+		numberOfMonths: 3,
+		startDate: new Date(),
+		minDate: new Date() - 1,
+		maxDate: new Date(new Date().setFullYear(new Date().getFullYear() + 2)),
+		minDays: 1,
+		//splitView: true,
+		tooltipNumber: (totalDays) => {
+		   return totalDays - 1;
+		},
+		tooltipText: { "one":"night", "other":"nights" },
+		disallowLockDaysInRange: true,
+	    isWeeklyBookingMode: true,
+		weeklyBookingModeDaysOfWeek: [7],
+		highlightedDaysFormat: {
+			parse(date) {
+				if (date instanceof Date) {
+					return date;
+				}
+				if (typeof date === "string") {
+					var parts = date.split(".");
+					return new Date(parts[2], parts[1], parts[0]);
+				}
+				if (typeof date === "number") {
+					return new Date(date);
+				}
+				return new Date();
+			},
+		},
+		highlightedDays: ['5.3.2025','12.3.2025','19.3.2025','19.3.2025','26.3.2025','3.4.2025','10.4.2025','17.4.2025','17.4.2025','24.4.2025','31.4.2025','7.5.2025','14.5.2025','21.5.2025','21.5.2025','28.5.2025','5.6.2025','12.6.2025','19.6.2025','26.6.2025','26.6.2025','2.7.2025','9.7.2025','16.7.2025','23.7.2025','23.7.2025','30.7.2025','6.8.2025','6.8.2025','13.8.2025','20.8.2025','27.8.2025','27.8.2025','4.9.2025','11.9.2025','18.9.2025','25.9.2025','1.10.2025','8.10.2025','8.10.2025','15.10.2025','22.10.2025','29.10.2025','6.11.2025','13.11.2025','20.11.2025','20.11.2025','27.11.2025','27.11.2025','3.0.2026','10.0.2026','17.0.2026','24.0.2026','31.0.2026','7.1.2026','14.1.2026','21.1.2026','28.1.2026','7.2.2026','14.2.2026','21.2.2026','28.2.2026','4.3.2026','4.3.2026','11.3.2026','18.3.2026','18.3.2026','25.3.2026','2.4.2026','9.4.2026','16.4.2026','16.4.2026','23.4.2026','30.4.2026','6.5.2026','13.5.2026','20.5.2026','20.5.2026','27.5.2026','4.6.2026','11.6.2026','18.6.2026','25.6.2026','25.6.2026','1.7.2026','8.7.2026','15.7.2026','22.7.2026','22.7.2026','29.7.2026','5.8.2026','5.8.2026','12.8.2026','19.8.2026','26.8.2026','26.8.2026','3.9.2026','10.9.2026','17.9.2026','24.9.2026','31.9.2026','7.10.2026',],
+		lockDaysFormat: {
+		parse(date) {
+			if (date instanceof Date) {
+			return date;
+			}
+			if (typeof date === "string") {
+			var parts = date.split(".");
+			return new Date(parts[2], parts[1], parts[0]);
+			}
+			if (typeof date === "number") {
+			return new Date(date);
+			}
+			return new Date();
+		},
+		},
+		lockDaysInclusivity: "()",
+		lockDays: ['10.3.2026','11.3.2026','12.3.2026','12.6.2026','13.6.2026','14.6.2026','15.6.2026','16.6.2026','17.6.2026',['7.10.2026', '6.10.2028']],
+		setup: (picker) => {
+
+				picker.on('render', (ui) => {
+
+					let months = document.getElementsByClassName("container__months");
+					let currentNumberOfColumns = picker.options.numberOfColumns;
+					let columnClass = `columns-${currentNumberOfColumns}`
+					
+					
+					for (const month of months) {
+					
+					
+						if(month.contains.columnClass){
+							month.classList.remove("columns-2", "columns-3", "columns-4");
+							month.classList.add(columnClass);
+						} else {
+							month.classList.add(columnClass);
+						}
+
+						
+					}
+
+				}),
+				
+				(picker.resize = function () {
+					let pickerWidth = picker.options.element.offsetWidth;
+					let rootStyle = getComputedStyle(document.documentElement);
+					let currentDayWidth = rootStyle.getPropertyValue("--litepicker-day-width");
+					let currentNumberOfColumns = picker.options.numberOfColumns;
+					let newNumberOfColumns = Math.floor(pickerWidth / 280);
+					if (currentNumberOfColumns !== newNumberOfColumns) {
+					picker.options.numberOfColumns = picker.options.numberOfMonths = newNumberOfColumns; 
+					}
+					let newDayWidth =
+					(pickerWidth - 10 * newNumberOfColumns) / newNumberOfColumns / 7 +
+					"px";
+					document.documentElement.style.setProperty(
+					"--litepicker-day-width",
+					newDayWidth
+					);
+					
+					
+					picker.hide();
+					picker.show();
+					console.log(
+					"Picker width: " +
+						pickerWidth +
+						", new number of columns: " +
+						newNumberOfColumns +
+						", new day width: " +
+						newDayWidth
+					);
+
+					/*let containerMonth = document.getElementsByClassName("container__months");
+					for (const box of containerMonth) {
+						let columnClass = `columns-${newNumberOfColumns}`
+						box.classList.add(columnClass);
+					}*/
+					
+				}), 
+
+			
+
+				picker.on('preselect', (dateFrom, dateTo) => {
+					picker.options.minDate = dateFrom;
+				});
+				
+				picker.on('selected', (dateFrom, dateTo) => {
+					picker.options.minDate = new Date() - 1;
+					let formElement = document.getElementById('bookingForm1'); 
+					formElement["filter_date"].value = dateFrom.getDate();
+					formElement["filter_month"].value = dateFrom.getMonth();
+					formElement["filter_year"].value = dateFrom.getFullYear();
+					const oneDay = 1000 * 60 * 60 * 24;
+					let duration = Math.round((dateTo.dateInstance.getTime() - dateFrom.dateInstance.getTime()) / oneDay);
+					formElement["filter_duration"].value = duration;
+					setTimeout(function() { document.getElementById('bookingForm1').submit(); }, 200);
+				});
+				
+				picker.on('error:range', () => {
+					picker.message("Yacht is not available any more in this period");
+				});
+
+		        picker.on('render:day', (day, date) => {
+					let dayOfWeek = date.getDay();
+					let isStartingDay = picker.options.weeklyBookingModeDaysOfWeek.includes(dayOfWeek);
+					let isAvailableDay = picker.options.highlightedDays.includes(date);
+					if (isAvailableDay) {
+						//if (picker.options.weeklyBookingModeDaysOfWeek.length < 7) { 
+							day.classList.add('is-highlighted');
+						//}
+					} 
+				});
+				
+				picker.on('before:click', (target) => {
+					if (target.className.includes("day-item") && !target.className.includes("is-locked") && !target.className.includes("is-highlighted") /*&& picker.options.weeklyBookingModeDaysOfWeek.length < 7*/) {
+						picker.preventClick = true;
+						const formatter = new Intl.DateTimeFormat(picker.options.lang, { weekday: 'long', timeZone: 'UTC' });
+						const days = picker.options.weeklyBookingModeDaysOfWeek.map(day => {
+							day = day + picker.options.firstDay;
+							const dd = day < 10 ? `0${day}` : day;
+							return new Date(`2017-01-${dd}T00:00:00+00:00`);
+						});
+						const checkinDayNames = days.map(date => ' ' + formatter.format(date));
+						// picker.message("Checkin and checkout are allowed only on highlighted days of the week (" + checkinDayNames + ").");
+					}
+				});
+		        if (picker.options.isResponsive) {
+		            window.addEventListener('resize', picker.resize);
+		            window.addEventListener('load', picker.resize);
+		        }
+		    }
+		});
+	</script>
+
+<form method="post" id="bookingForm1" action="en/charter/book-the-boat.html" style="padding:0px;margin:0px;">
+	<input name="companyid" value="7850" type="hidden">
+		<input name="view" value="Booking" type="hidden">
+        <input name="yachtId" value="6362109340000107850" type="hidden">
+		<input type="hidden" name="filter_date" value="7">
+		<input type="hidden" name="filter_duration" value="7">
+		<input type="hidden" name="filter_year" value="2012">
+		<input type="hidden" name="filter_month" value="6">
+</form>														<div id="booking-form-info" class="fw-bold fs-12 my-2">
+																Please select your preferred dates first.
+								
+															</div>
+						</div>
+					</div>
+					
+					
+					
+				
+					
+				</div>
+			</aside>
+
+			
+		</div>
+	</div>
+</main>
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="viewAllPhotosModal" data-bs-keyboard="false" tabindex="-1" aria-labelledby="viewAllPhotosModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-xl">
+    <div class="modal-content">
+
+      <div class="modal-header" data-bs-dismiss="modal" aria-label="Close">
+	  	<div class="close">
+			<svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 mr-2" fill="none" viewBox="0 0 24 24" stroke="#001c3d"><path d="M15 19l-7-7 7-7"/></svg>
+		</div>
+        <p class="modal-title ms-3" id="viewAllPhotosModalLabel">Boat details</p>
+        
+      </div>
+
+      <div class="modal-body my-gallery" id="my-gallery">
+	
+        			<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179210000107850_Lemon_0001.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179210000107850_Lemon_0001.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+					<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179230000107850_Lemon_0008.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179230000107850_Lemon_0008.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+					<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179250000107850_Lemon_0014.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179250000107850_Lemon_0014.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+					<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179270000107850_Lemon_0020.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179270000107850_Lemon_0020.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+					<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179290000107850_Lemon_0023.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179290000107850_Lemon_0023.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+					<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179310000107850_Lemon_0031.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179310000107850_Lemon_0031.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+					<a data-pswp-width="720" data-pswp-height="540" title="Sun Odyssey 469 - Lemon -  " href="bmdoc/6604179330000107850_Lemon_0041.webp?width=1024&defaultToEmpty=true">
+				<img src="bmdoc/6604179330000107850_Lemon_0041.webp?width=1024&defaultToEmpty=true" class="thumb" alt="Sun Odyssey 469 - "  />
+			</a>
+		
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<script>
+
+	// format number to Euro
+	let price = 2600.0;
+	let euroFormat = new Intl.NumberFormat('en-DE', {
+		style: 'currency',
+		currency: 'EUR',
+	});
+	// Display formatted currency in HTML
+	const currencyElement = document.getElementById('currency');
+	currencyElement.textContent = euroFormat.format(price);
+	
+	
+	let submitBookingForm1 = document.getElementById("submitBookingForm1");
+	submitBookingForm1.disabled = true;
+
+		
+	
+
+
+	function submitForm(){
+		let startDate = pickerSmall.getStartDate();
+		let finishDate = pickerSmall.getEndDate();
+		let formElement = document.getElementById('bookingForm1'); 
+		
+		formElement['filter_date'].value = startDate.getDate();
+		formElement['filter_month'].value = startDate.getMonth();
+		formElement['filter_year'].value = startDate.getFullYear();
+		formElement['filter_duration'].value = Math.round((finishDate.getTime() - startDate.getTime())/(1000*60*60*24));
+		
+		
+		formElement.submit();
+	}
+</script>
+
+<form method="post" id="bookingForm1" action="en/charter/book-the-boat.html" style="padding:0px;margin:0px;">
+	<input name="companyid" value="7850" type="hidden">
+		<input name="view" value="Booking" type="hidden">
+        <input name="yachtId" value="6362109340000107850" type="hidden">
+		<input type="hidden" name="filter_date" value="7">
+		<input type="hidden" name="filter_duration" value="7">
+		<input type="hidden" name="filter_year" value="2012">
+		<input type="hidden" name="filter_month" value="6">
+		<input type="hidden" name="nocache" value="">
+</form>
+
+
+	
+	<footer class="footer whitespace-top-lg gradient-fill">
+		
+
+		<div class="custom-container">
+
+		
+			<div class="row">
+				<div class="col-12 col-xl-3">
+					<a class="footer-logo" href="/">
+						<img src="images/site-logo.svg" alt="site-logo">
+					</a>
+				</div>
+				
+				<div class="col-12 col-xl-3">
+					<h3>
+						About us
+					</h3> 
+					<div class="row">
+						<div class="col-12">
+							<ul>
+								
+								
+								
+									<li>
+										<a class="footer-links" href="en/about-us.html">
+											About us
+										</a>
+									</li>
+								
+								
+									<li>
+										<a class="footer-links" href="en/terms-and-conditions.html">
+											Terms and Conditions
+										</a>
+									</li>
+								
+								
+									<li>
+										<a class="footer-links" href="en/privacy-policy.html">
+											Privacy policy
+										</a>
+									</li>
+								
+								
+							</ul>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-12 col-xl-3">
+					<h3>Charter</h3>
+					<ul>
+						<li>
+							<a href="en/yacht/Sun+Odyssey+469-Lemon_p_yachtId-6362109340000107850.html">Our Yacht</a>
+						</li>
+						
+						
+						
+						<li>
+							<a href="en/destinations/ionian-sea.html">
+								Ionian Sea
+							</a>
+						</li>
+						
+						
+						
+					</ul>
+				</div>
+
+				<div class="col-12 col-xl-3 social-links">
+					<h3>
+						Follow us
+					</h3>
+
+					   
+
+<div class="social-links-wrapper">
+	
+
+	
+
+	
+
+	
+
+	
+</div>
+
+<address class="footer-address">
+	
+		
+    <p>
+YOLO CHARTERS
+    </p>
+
+    <p>
+Ermou 1, PC 54625, Thessaloniki, Greece
+    </p>
+
+    <p>
+Phone:&#160;<a href="tel:+306985064875">+30 698 506 4875</a>
+    </p>
+
+    <p>
+Email:&#160;<a href="mailto:info@yolo-charters.com">info@yolo-charters.com</a>
+
+    </p>
+
+  
+	
+</address>
+
+
+				</div>
+			</div>
+
+
+			<div class="row">
+				<div class="copyright col-12">
+					<div class="copyright-wrapper">
+						<p class="color-light">&copy; Yolo Charters 2023-2025 All rights reserved</p>
+						<a href="https://www.booking-manager.com" target="_blank"><img src="images/bm-logo-white.webp" alt="MMK Systems Logo"/></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+	</footer> <!-- /.footer -->
+
+	<div class="scroll-progress">
+		<span class="scroll-progress-value">
+			<svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M6.61162 3.65652L2.63138 7.60938C2.42071 7.81735 2.13574 7.93408 1.8387 7.93408C1.54166 7.93408 1.25669 7.81735 1.04602 7.60938C0.94064 7.50557 0.856994 7.38207 0.799911 7.246C0.742829 7.10993 0.71344 6.96398 0.71344 6.81657C0.71344 6.66916 0.742829 6.52322 0.799911 6.38714C0.856994 6.25107 0.94064 6.12757 1.04602 6.02377L5.81332 1.28928C5.91785 1.18462 6.0422 1.10155 6.17922 1.04486C6.31623 0.988171 6.46319 0.958984 6.61162 0.958984C6.76005 0.958984 6.90701 0.988171 7.04402 1.04486C7.18104 1.10155 7.30539 1.18462 7.40992 1.28928L12.2334 6.02377C12.3376 6.12811 12.4201 6.25185 12.476 6.38789C12.532 6.52394 12.5604 6.66962 12.5595 6.81657C12.5604 6.96353 12.532 7.1092 12.476 7.24525C12.4201 7.3813 12.3376 7.50504 12.2334 7.60938C12.0228 7.81735 11.7378 7.93408 11.4408 7.93408C11.1437 7.93408 10.8587 7.81735 10.6481 7.60938L6.61162 3.65652Z" fill="#fff"/>
+			</svg>
+		</span>
+	</div> <!-- /.scroll-progress -->
+
+	
+	<div id="customModalQuote" class="custom-modal custom-modal-quote">
+
+		<div class="modal-content">
+			<div class="modal-header">
+				<h4 class="modal-title">
+					Wishlist
+				</h4>
+				<div class="close-quote">
+					<svg width="44" height="46" viewBox="0 0 44 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<line x1="0.707107" y1="1.30901" x2="43.1335" y2="43.7354" stroke="#F1F5F9" stroke-width="2"></line>
+						<line x1="43.1336" y1="2.70711" x2="0.707214" y2="45.1335" stroke="#F1F5F9" stroke-width="2"></line>
+					</svg>
+				</div>
+			</div>
+			<div class="modal-body">
+				
+				<div class="mb-3">
+					<div class="delete-all" onclick="clearQueue();">
+						Delete all
+					</div>
+				</div>
+					
+				<div id="queueContainer" style="overflow-y:auto;"></div>
+				<div id="empty-cart" class="color-light">
+					Your list is empty.
+				</div>
+			</div>
+			<div class="d-md-flex p-3">
+				<div class="col-12 d-flex flex-column flex-md-row">
+					<input type="text" id="emailTo" class="form-control rounded-0" name="emailTo" placeholder="enter E-mail"/>
+					<button type="button" class="btn btn-secondary px-5 mt-3 mt-md-0" onclick="prepareSendQuote();">
+						Send
+					</button>
+				</div>
+			</div>
+			<div class="modal-footer-bottom p-3 text-center">
+				<div id="sending"></div>
+				<div id="resultingMessageElementID"></div>
+			</div>
+		</div>
+	</div> <!-- /.custom-modal -->
+
+	<script src="dist/js/plugins.min.js"></script>
+	<script src="dist/js/custom.min.js"></script>
+
+	<script type="text/javascript">
+		jQuery(document).ready(function() {
+				executeRequest("templates/priceQuoteList.jsp?action=getQueue");
+		});
+		
+	function getQuoteItem(resourceid, dateFrom, dateTo, reservationId, baseFrom, baseTo, product){
+		executeRequest("templates/priceQuoteList.jsp?action=addToQueue&resourceid="+resourceid+"&dateFrom="+dateFrom+"&dateTo="+dateTo+"&reservationId="+reservationId+"&baseFromId="+baseFrom+"&baseToId="+baseTo+"&product="+product);
+	}
+	function deleteFromQueue(uniqueId){
+		executeRequest("templates/priceQuoteList.jsp?action=deleteFromQueue&uniqueId="+uniqueId);
+		var item = jQuery("#"+uniqueId);
+		if(item.hasClass("added-to-quote")){
+			item.removeClass("added-to-quote");
+		} else{
+			item.addClass("added-to-quote");
+		}
+	}
+	function changeQuoteItemDiscount(uniqueId, increment){
+		executeRequest("templates/priceQuoteList.jsp?action=changeDiscount&uniqueId="+uniqueId+"&increment="+increment);
+	}
+	function clearQueue(){
+		executeRequest("templates/priceQuoteList.jsp?action=clearQueue");
+		var items = jQuery(".card");
+		items.closest('.added-to-quote').removeClass('added-to-quote');
+	}
+	function prepareSendQuote(){
+		//TODO Dean, here you need to add the loading spinner
+		//$("modalDialogContentID").addClass("spinner"); //spinner is added to element with provided ID
+		document.getElementById("sending").innerHTML = "Sending email";//test
+		
+		var emailTo = document.getElementById("emailTo").value;
+		sendQuote(emailTo);
+	}
+
+	function sendQuote(email){
+		var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+		xmlhttp.onreadystatechange=function(){
+			if (xmlhttp.readyState==4 && xmlhttp.status==200){
+				//TODO Dean, here you need to remove the loading spinner and show success or failure message
+				//$("modalDialogContentID").removeClass("spinner"); //spinner is removed from element with provided ID
+				document.getElementById("sending").innerHTML = "";//TODO test, remove it later
+				document.getElementById("resultingMessageElementID").innerHTML = xmlhttp.responseText; // response message is written to element with provided ID
+			}
+		}
+		xmlhttp.open("POST","templates/sendPriceQuote.jsp?emailTo="+email,true);
+		xmlhttp.send();
+	}
+
+	function executeRequest(link){
+		var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+		xmlhttp.onreadystatechange=function(){
+			if (xmlhttp.readyState==4 && xmlhttp.status==200){
+				document.getElementById("queueContainer").innerHTML = xmlhttp.responseText;
+				var pqItemsCount = 0;
+				if(document.getElementById("queueItemsCount")!=null){
+					pqItemsCount = document.getElementById("pqItemsCount").value;
+					document.getElementById("queueItemsCount").innerHTML = pqItemsCount;
+				}
+				$("#scrollDiv").css("max-height",$("#holderAdjustHeight").height());
+				
+				$(function() {
+					var foundInQuote = [];
+					$(".price-quote").each(function() {
+						var itemInQuoteUUID = $(this).data("uuid");
+						var elementInResults = $("#"+itemInQuoteUUID);
+						var elementExists = elementInResults.length;
+						if(elementExists){
+							foundInQuote.push(itemInQuoteUUID);
+							elementInResults.addClass("added-to-quote");
+						}
+					});
+					
+					//go through all searchresult items and if isn't in the quote remove the class definition
+					$(".searchresult-item").each(function() {
+						var searchResultItemId = $(this).attr('id');
+						if(foundInQuote.indexOf(searchResultItemId)==-1){
+							$(this).removeClass("added-to-quote");
+						}
+					});
+					
+					var disableButton = true;
+					var emptyCartDiv = document.getElementById("empty-cart");
+					if(parseInt(pqItemsCount)!=0){
+						disableButton = false;
+						emptyCartDiv.style.display = "none";
+					} else {
+						emptyCartDiv.style.display = "block";
+					}
+
+					$("#compare-cart").prop('disabled', disableButton);
+				});
+			} 
+		}
+		xmlhttp.open("POST",link,true);
+		xmlhttp.send();
+	}
+	</script>
+	
+</body>
+</html>

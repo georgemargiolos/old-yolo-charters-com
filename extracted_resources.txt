@@ -1,0 +1,15 @@
+	<script async src='https://www.google.com/recaptcha/api.js?hl='></script>
+	<script src="dist/js/custom.min.js"></script>
+	<script src="dist/js/plugins.min.js"></script>
+    <script src="src/js/litepicker.js"></script>
+<!--script src="include/js/litepicker.js"></script>
+<link rel="stylesheet" href="dist/css/style.min.css">
+<link rel="stylesheet" href="src/css/jquery-ui.min.css">
+<link rel="stylesheet" href="src/css/magnific-popup.min.css">
+<link rel="stylesheet" href="src/css/photo-swipe.min.css">
+<link rel="stylesheet" href="src/css/select2.min.css">
+<script src="https://cdn.jsdelivr.net/npm/litepicker/dist/plugins/mobilefriendly.js"></script-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-bootpag/1.0.4/jquery.bootpag.min.js" integrity="sha512-wHItMiTGA88lHywV54pU8t5Nm4le+AmLJGIVS/U1mpd8PuV0h/Azjw1JhQqZH6UnUP/uOraGUcSI1tGvnE/Mug==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="src/js/jquery.min.js"></script>
+<script src="src/js/litepicker.js"></script>
+<script src="src/js/mobilefriendly.js"></script>
