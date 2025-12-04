@@ -1,0 +1,126 @@
+YOLO CHARTERS - COMPLETE TYPOGRAPHY SPECIFICATIONS
+================================================================================
+
+HEADING STYLES
+================================================================================
+
+
+H1:
+----------------------------------------
+h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}
+
+h1,h1{font-size:calc(1.375rem + 1.5vw)}
+
+h1,h1{font-size:2.5rem}
+
+
+H2:
+----------------------------------------
+h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}
+
+h2,h2{font-size:calc(1.325rem + .9vw)}
+
+h2,h2{font-size:2rem}
+
+
+H3:
+----------------------------------------
+h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}
+
+h3,h3{font-size:calc(1.3rem + .6vw)}
+
+h3,h3{font-size:1.75rem}
+
+
+H4:
+----------------------------------------
+h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}
+
+h4,h4{font-size:calc(1.275rem + .3vw)}
+
+h4,h4{font-size:1.5rem}
+
+
+H5:
+----------------------------------------
+h5,.h6,h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}
+
+h5,h5{font-size:1.25rem}
+
+
+H6:
+----------------------------------------
+h6,h1,h2,h3,h4,h5,h6{font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0}
+
+h6,h6{font-size:1rem}
+
+
+
+COMPONENT STYLES
+================================================================================
+
+
+HERO-TITLE:
+----------------------------------------
+.hero-title{margin-bottom:1.5rem}
+
+.hero-title h1{font-size:3rem;font-weight:400;text-shadow:0 4px 8px rgba(0,0,0,.2)}
+
+.hero-title .hero-title-subtitle,.hero-title h1{color:var(--light-color);position:relative;z-index:2}
+
+.hero-title .hero-title-subtitle{font-size:1.375rem}
+
+.hero-title .hero-title-subtitle span{text-shadow:0 4px 8px rgba(0,0,0,.2)}
+
+
+BTN-PRIMARY:
+----------------------------------------
+.btn-primary{background-color:#0d6efd;border-color:#0d6efd;color:#fff}
+
+.btn-primary,.btn-primary:focus,.btn-primary:hover{background-color:#0b5ed7;border-color:#0a58ca;color:#fff}
+
+.btn-primary,.btn-primary:focus{box-shadow:0 0 0 .25rem rgba(49,132,253,.5)}
+
+.btn-primary,.btn-check:checked+.btn-primary,.btn-primary.active,.btn-primary:active,.show>.btn-primary.dropdown-toggle{background-color:#0a58ca;border-color:#0a53be;color:#fff}
+
+.btn-primary:focus,.btn-check:checked+.btn-primary:focus,.btn-primary.active:focus,.btn-primary:active:focus,.show>.btn-primary.dropdown-toggle:focus{box-shadow:0 0 0 .25rem rgba(49,132,253,.5)}
+
+
+BTN-SECONDARY:
+----------------------------------------
+.btn-secondary{background-color:#6c757d;border-color:#6c757d;color:#fff}
+
+.btn-secondary,.btn-secondary:focus,.btn-secondary:hover{background-color:#5c636a;border-color:#565e64;color:#fff}
+
+.btn-secondary,.btn-secondary:focus{box-shadow:0 0 0 .25rem hsla(208,6%,54%,.5)}
+
+.btn-secondary,.btn-check:checked+.btn-secondary,.btn-secondary.active,.btn-secondary:active,.show>.btn-secondary.dropdown-toggle{background-color:#565e64;border-color:#51585e;color:#fff}
+
+.btn-secondary:focus,.btn-check:checked+.btn-secondary:focus,.btn-secondary.active:focus,.btn-secondary:active:focus,.show>.btn-secondary.dropdown-toggle:focus{box-shadow:0 0 0 .25rem hsla(208,6%,54%,.5)}
+
+
+NAV-LINK:
+----------------------------------------
+.nav-link{color:#0d6efd;display:block;padding:.5rem 1rem;text-decoration:none;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out}
+
+.nav-link{transition:none}
+
+.nav-link:focus,.nav-link:hover{color:#0a58ca}
+
+.nav-link.disabled{color:#6c757d;cursor:default;pointer-events:none}
+
+.nav-link{background:0 0;border:1px solid transparent;border-top-left-radius:.25rem;border-top-right-radius:.25rem;margin-bottom:-1px}
+
+
+CARD:
+----------------------------------------
+.card{word-wrap:break-word;background-clip:border-box;background-color:#fff;border:1px solid rgba(0,0,0,.125);border-radius:.25rem;display:flex;flex-direction:column;min-width:0}
+
+.card>hr{margin-left:0;margin-right:0}
+
+.card>.list-group{border-bottom:inherit;border-top:inherit}
+
+.card>.list-group:first-child{border-top-left-radius:calc(.25rem - 1px);border-top-right-radius:calc(.25rem - 1px);border-top-width:0}
+
+.card>.list-group:last-child{border-bottom-left-radius:calc(.25rem - 1px);border-bottom-right-radius:calc(.25rem - 1px);border-bottom-width:0}
+

@@ -1,0 +1,36 @@
+YOLO CHARTERS - COMPLETE FONT ANALYSIS
+================================================================================
+
+@FONT-FACE DECLARATIONS
+================================================================================
+@font-face{font-family:Poppins;font-style:normal;font-weight:400;src:url(../../fonts/Poppins-Regular.ttf) format("truetype")}
+
+@font-face{font-family:Poppins;font-style:normal;font-weight:500;src:url(../../fonts/Poppins-Medium.ttf) format("truetype")}
+
+@font-face{font-family:Inter Light;font-style:normal;font-weight:300;src:url(../../fonts/InterLight.ttf) format("truetype")}
+
+@font-face{font-family:Inter Medium;font-style:normal;font-weight:500;src:url(../../fonts/InterMedium.ttf) format("truetype")}
+
+
+
+CSS ROOT VARIABLES (Font-related)
+================================================================================
+--bs-font-sans-serif:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"
+--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace
+--font-primary:"Inter Light"
+--font-secondary:"Poppins"
+
+
+ALL FONT FAMILIES USED
+================================================================================
+Arial,Baskerville,monospace
+Inter Light
+Inter Medium
+Poppins
+inherit
+sans-serif
+var(--bs-font-monospace)
+var(--bs-font-monospace)!important
+var(--bs-font-sans-serif)
+var(--font-primary)
+var(--font-secondary)
